@@ -1,0 +1,202 @@
+iso3	country	area	dis_int	landlocked	continent	maincity	citynum	langoff_1	langoff_2	langoff_3	lang20_1	lang20_2	lang20_3	lang20_4	lang9_1	lang9_2	lang9_3	lang9_4	colonizer1	colonizer2	colonizer3	colonizer4	short_colonizer1	short_colonizer2	short_colonizer3
+AFG	Afghanistan	652225	303.7614	1	Asia	1	25	Persian	.	.	Persian	Pashtu	.	.	Hazaragi	Uzbek	.	.	.	.	.	.	GBR	.	.
+AGO	Angola	1246700	419.9666	0	Africa	1	25	Portuguese	.	.	Portuguese	Umbundu	Mbundu Loanda	.	Kongo	.	.	.	PRT	.	.	.	.	.	.
+ALB	Albania	28748	63.77311	0	Europe	1	25	Albanian	.	.	Albanian	.	.	.	.	.	.	.	TUR	.	.	.	.	.	.
+AND	Andorra	453	8.005398	0	Europe	1	7	Catalan	Spanish	.	Catalan	Spanish	.	.	.	.	.	.	.	.	.	.	.	.	.
+ARE	United Arab Emirates	83657	108.789	0	Asia	1	9	Arabic	.	.	Arabic	.	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+ARG	Argentina	2766889	625.6475	0	America	1	25	Spanish	.	.	Spanish	.	.	.	.	.	.	.	ESP	.	.	.	.	.	.
+ARM	Armenia	29800	64.92948	1	Asia	1	25	Armenian	.	.	Armenian	.	.	.	.	.	.	.	TUR	RUS	.	.	.	.	.
+ATG	Antigua and Barbuda	442	7.907605	0	America	1	15	English	.	.	English	Leeward Caribbean Creole English	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+AUS	Australia	7686848	1042.817	0	Pacific	1	25	English	.	.	English	.	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+AUS	Australia	7686848	1042.817	0	Pacific	0	25	English	.	.	English	.	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+AUT	Austria	83858	108.9196	1	Europe	1	25	German	.	.	German	.	.	.	.	.	.	.	.	.	.	.	DEU	.	.
+AZE	Azerbaijan	86600	110.686	1	Asia	1	25	Azeri	.	.	Azeri	.	.	.	Talysh	.	.	.	RUS	.	.	.	TUR	.	.
+BDI	Burundi	27834	62.75114	1	Africa	1	15	French	Kirundi	.	French	Kirundi	.	.	.	.	.	.	BEL	DEU	.	.	.	.	.
+BEL	Belgium and Luxembourg	33114	68.44467	0	Europe	1	25	Dutch	French	German	Dutch	French	German	.	.	.	.	.	.	.	.	.	NLD	.	.
+BEN	Benin	112622	126.225	0	Africa	1	25	French	.	.	French	Fon	.	.	.	.	.	.	FRA	.	.	.	.	.	.
+BEN	Benin	112622	126.225	0	Africa	0	25	French	.	.	French	Fon	.	.	.	.	.	.	FRA	.	.	.	.	.	.
+BFA	Burkina Faso	274200	196.9552	1	Africa	1	25	French	.	.	French	Mòoré	.	.	Jula	.	.	.	FRA	.	.	.	.	.	.
+BGD	Bangladesh	143998	142.7289	0	Asia	1	25	Bengali	.	.	Bengali	.	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+BGR	Bulgaria	110994	125.3094	0	Europe	1	25	Bulgarian	.	.	Bulgarian	.	.	.	Turkish	.	.	.	TUR	.	.	.	.	.	.
+BHR	Bahrain	678	9.793742	0	Asia	1	7	Arabic	.	.	Arabic	.	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+BHS	Bahamas	13939	44.40681	0	America	1	24	English	.	.	English	Bahamas Creole English	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+BIH	Bosnia and Herzegovina	51233	85.13511	0	Europe	1	25	Serbo-Croatian	.	.	Serbo-Croatian	.	.	.	.	.	.	.	TUR	AUT	.	.	YUG	HUN	.
+BLR	Belarus	207595	171.3729	0	Europe	1	25	Belarussian	.	.	Belarussian	.	.	.	Russian	.	.	.	RUS	.	.	.	.	.	.
+BLZ	Belize	22963	56.99649	0	America	1	9	English	Spanish	.	Spanish	English	Bileez Kriol	.	.	.	.	.	GBR	.	.	.	.	.	.
+BOL	Bolivia	1098581	394.2302	1	America	1	25	Spanish	Quecha	Aymara	Spanish	Quecha	Aymara	.	.	.	.	.	ESP	.	.	.	.	.	.
+BOL	Bolivia	1098581	394.2302	1	America	0	25	Spanish	Quecha	Aymara	Spanish	Quecha	Aymara	.	.	.	.	.	ESP	.	.	.	.	.	.
+BRA	Brazil	8511920	1097.356	0	America	1	25	Portuguese	.	.	Portuguese	.	.	.	.	.	.	.	PRT	.	.	.	.	.	.
+BRA	Brazil	8511920	1097.356	0	America	0	25	Portuguese	.	.	Portuguese	.	.	.	.	.	.	.	PRT	.	.	.	.	.	.
+BRB	Barbados	431	7.808587	0	America	1	11	English	.	.	Bajan	English	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+BRN	Brunei Darussalam	5765	28.55837	0	Asia	1	5	Malay	.	.	Malay	.	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+BTN	Bhutan	46620	81.21195	1	Asia	1	20	Burmese	.	.	Dzongha	.	.	.	Nepali	Tshangla	.	.	.	.	.	.	GBR	IND	.
+BWA	Botswana	600372	291.4366	1	Africa	1	25	English	.	.	Tswana	English	.	.	Kalanga	.	.	.	GBR	.	.	.	.	.	.
+CAF	Central African Republic	622984	296.8741	1	Africa	1	25	French	.	.	Gbaya	Sango	.	.	French	.	.	.	FRA	.	.	.	.	.	.
+CAN	Canada	9976139	1187.996	0	America	1	25	English	French	.	English	French	.	.	.	.	.	.	GBR	FRA	.	.	.	.	.
+CAN	Canada	9976139	1187.996	0	America	0	25	English	French	.	English	French	.	.	.	.	.	.	GBR	FRA	.	.	.	.	.
+CHE	Switzerland	41288	76.42681	1	Europe	1	25	German	French	Italian	German	Alemannisch	French	.	Italian	.	.	.	.	.	.	.	.	.	.
+CHL	Chile	756945	327.2397	0	America	1	25	Spanish	.	.	Spanish	.	.	.	.	.	.	.	ESP	.	.	.	.	.	.
+CHN	China	9572378	1163.707	0	Asia	1	25	Chinese	.	.	Chinese Mandarin	.	.	.	Chinese Wu	Chinese Yue	.	.	.	.	.	.	.	.	.
+CIV	Côte d'Ivoire	322463	213.5865	0	Africa	0	25	French	.	.	Baoulé	French	Diaoula	.	.	.	.	.	FRA	.	.	.	.	.	.
+CIV	Côte d'Ivoire	322463	213.5865	0	Africa	1	25	French	.	.	Baoulé	French	Diaoula	.	.	.	.	.	FRA	.	.	.	.	.	.
+CMR	Cameroon	475442	259.3478	0	Africa	1	25	French	English	.	French	English	Fang	.	Pidgin Cameroon	Beti	.	.	FRA	.	.	.	.	.	.
+COG	Congo	342000	219.9616	0	Africa	1	25	French	.	.	French	Kituba	Kongo	.	Lingala	.	.	.	FRA	.	.	.	.	.	.
+COL	Colombia	1141748	401.9008	0	America	1	25	Spanish	.	.	Spanish	.	.	.	.	.	.	.	ESP	.	.	.	.	.	.
+COM	Comoros	1862	16.23019	0	Africa	1	5	Arabic	French	.	Comorian	.	.	.	French	.	.	.	FRA	.	.	.	.	.	.
+CPV	Cape Verde	4033	23.88625	0	Africa	1	15	Portuguese	.	.	Portuguese	Kabuverdianu	.	.	.	.	.	.	PRT	.	.	.	.	.	.
+CRI	Costa Rica	51076	85.00456	0	America	1	25	Spanish	.	.	Spanish	.	.	.	.	.	.	.	ESP	.	.	.	.	.	.
+CUB	Cuba	110861	125.2343	0	America	1	25	Spanish	.	.	Spanish	.	.	.	.	.	.	.	ESP	.	.	.	USA	.	.
+CYP	Cyprus	9251	36.17663	0	Europe	1	25	Greek	Turkish	.	Greek	Turkish	.	.	.	.	.	.	GBR	TUR	GRC	.	.	.	.
+CZE	Czech Republic	78864	105.6266	1	Europe	1	25	Czech	.	.	Czech	.	.	.	.	.	.	.	AUT	.	.	.	HUN	.	.
+DEU	Germany	357325	224.8358	0	Europe	0	25	German	.	.	German	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+DEU	Germany	357325	224.8358	0	Europe	1	25	German	.	.	German	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+DJI	Djibouti	23200	57.28986	0	Africa	1	5	French	Arabic	.	Afar	Somali	.	.	Arabic	French	.	.	FRA	.	.	.	.	.	.
+DMA	Dominica	751	10.30751	0	America	1	22	English	French	.	English	Lesser Antillean Creole French	.	.	.	.	.	.	GBR	.	.	.	FRA	.	.
+DNK	Denmark	43094	78.08043	0	Europe	1	25	Danish	.	.	Danish	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+DOM	Dominican Republic	48734	83.03283	0	America	1	25	Spanish	.	.	Spanish	.	.	.	.	.	.	.	FRA	HTI	.	.	ESP	.	.
+DZA	Algeria	2381741	580.4717	0	Africa	1	25	Arabic	French	.	Arabic	French	.	.	Kabyle	.	.	.	FRA	.	.	.	.	.	.
+ECU	Ecuador	275716	197.4989	0	America	1	25	Spanish	.	.	Spanish	Quichua	.	.	.	.	.	.	ESP	.	.	.	.	.	.
+EGY	Egypt	1001449	376.3988	0	Africa	1	25	Arabic	.	.	Arabic	English	.	.	.	.	.	.	GBR	TUR	.	.	.	.	.
+ERI	Eritrea	121320	131.0087	0	Africa	1	18	English	.	.	Tigrigna	Tigré	English	Arabic	Afar	.	.	.	GBR	.	.	.	ITA	ETH	.
+ESP	Spain	505954	267.5404	0	Europe	1	25	Spanish	.	.	Spanish	Catalan	.	.	Galician	.	.	.	.	.	.	.	.	.	.
+EST	Estonia	45227	79.98945	0	Europe	1	25	Estonian	.	.	Estonian	.	.	.	.	.	.	.	RUS	SWE	.	.	.	.	.
+ETH	Ethiopia	1127127	399.3192	1	Africa	1	25	Amharic	Tigrigna	English	Amharic	Oromo	.	.	.	.	.	.	.	.	.	.	ITA	.	.
+FIN	Finland	336593	218.2159	0	Europe	1	25	Swedish	.	.	Finnish	.	.	.	.	.	.	.	RUS	SWE	.	.	.	.	.
+FJI	Fiji	18333	50.92729	0	Pacific	1	22	English	.	.	English	Fijian	Hindustani Fijian	.	.	.	.	.	GBR	.	.	.	.	.	.
+FRA	France	547026	278.1876	0	Europe	1	25	French	.	.	French	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+GAB	Gabon	267667	194.5948	0	Africa	1	25	French	.	.	Fang	French	.	.	Mbere	Punu	.	.	FRA	.	.	.	.	.	.
+GBR	United Kingdom	244110	185.8346	0	Europe	1	25	English	.	.	English	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+GEO	Georgia	69700	99.30022	0	Asia	1	25	Georgian	.	.	Georgian	.	.	.	Mingrelian	.	.	.	RUS	.	.	.	TUR	.	.
+GHA	Ghana	238538	183.7014	0	Africa	1	25	English	.	.	Akan	.	.	.	English	Éwé	.	.	GBR	.	.	.	.	.	.
+GIN	Guinea	245857	186.4984	0	Africa	1	25	French	.	.	French	Pulaar	Maninka	.	Susu	.	.	.	FRA	.	.	.	.	.	.
+GMB	Gambia	11295	39.97394	0	Africa	1	20	English	.	.	English	Mandinka	Pulaar	.	Wolof	.	.	.	GBR	.	.	.	.	.	.
+GNB	Guinea-Bissau	36125	71.48875	0	Africa	1	14	Portuguese	.	.	Balanta	Madjank	Crioulo Upper Guinea	.	Mandinka	.	.	.	PRT	.	.	.	.	.	.
+GNQ	Equatorial Guinea	28051	62.99527	0	Africa	1	16	Spanish	French	.	Fang	Spanish	.	.	Bube	.	.	.	ESP	.	.	.	.	.	.
+GRC	Greece	131621	136.4572	0	Europe	1	25	Greek	.	.	Greek	.	.	.	.	.	.	.	TUR	.	.	.	.	.	.
+GRD	Grenada	345	6.986238	0	America	1	7	English	.	.	English	Windward Caribbean Creole English	.	.	.	.	.	.	GBR	.	.	.	FRA	.	.
+GTM	Guatemala	108889	124.1154	0	America	1	25	Spanish	.	.	Spanish	.	.	.	.	.	.	.	ESP	.	.	.	.	.	.
+GUY	Guyana	214970	174.3905	0	America	1	25	English	.	.	English	Hindustani Caribbean	Guyanese Creole English	.	.	.	.	.	GBR	.	.	.	NLD	.	.
+HND	Honduras	112088	125.9254	0	America	1	25	Spanish	.	.	Spanish	.	.	.	.	.	.	.	ESP	.	.	.	.	.	.
+HRV	Croatia	56538	89.43428	0	Europe	1	25	Serbo-Croatian	.	.	Serbo-Croatian	.	.	.	.	.	.	.	AUT	.	.	.	YUG	HUN	.
+HTI	Haiti	27750	62.65638	0	America	1	25	French	.	.	Haitian Creole French	.	.	.	.	.	.	.	.	.	.	.	FRA	ESP	.
+HUN	Hungary	93032	114.7229	1	Europe	1	25	Hungarian	.	.	Hungarian	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+IDN	Indonesia	1933658	523.0264	0	Asia	1	25	Indonesian	.	.	Indonesian	Malay	Javanese	.	Sunda	.	.	.	NLD	.	.	.	.	.	.
+IND	India	3287590	681.9816	0	Asia	1	25	English	Hindi	.	Hindi	English	.	.	Marathi	Telugu	Bengali	.	GBR	.	.	.	.	.	.
+IRL	Ireland	70285	99.71606	0	Europe	1	25	English	.	.	English	Irish	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+IRN	Iran	1648100	482.8648	0	Asia	1	25	Persian	.	.	Persian	Azeri	.	.	.	.	.	.	.	.	.	.	.	.	.
+IRQ	Iraq	437072	248.6625	0	Asia	1	25	Arabic	.	.	Arabic	Kurdish	.	.	.	.	.	.	TUR	.	.	.	GBR	.	.
+ISL	Iceland	102819	120.6064	0	Europe	1	25	Icelandic	.	.	Icelandic	.	.	.	.	.	.	.	DNK	.	.	.	.	.	.
+ISR	Israel	21621	55.30593	0	Asia	1	25	Hebrew	English	.	Hebrew	Arabic	English	French	Russian	.	.	.	GBR	TUR	.	.	POL	.	.
+JAM	Jamaica	10991	39.43233	0	America	1	25	English	.	.	English	.	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+JOR	Jordan	91862	113.9992	0	Asia	1	25	Arabic	.	.	Arabic	English	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+JPN	Japan	377801	231.188	0	Asia	1	25	Japanese	.	.	Japanese	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+KAZ	Kazakstan	2717300	620.0156	1	Asia	0	25	Kazakh	Russian	.	Kazakh	Russian	.	.	.	.	.	.	RUS	.	.	.	.	.	.
+KAZ	Kazakstan	2717300	620.0156	1	Asia	1	25	Kazakh	Russian	.	Kazakh	Russian	.	.	.	.	.	.	RUS	.	.	.	.	.	.
+KEN	Kenya	582646	287.102	0	Africa	1	25	English	Swahili	.	English	Swahili	Gikuyu	.	Luo	Luyia	Kalenjin	Kamba	GBR	.	.	.	.	.	.
+KGZ	Kyrgyzstan	198500	167.5769	1	Asia	1	25	Kyrgyz	Russian	.	Kyrgyz	Russian	.	.	.	.	.	.	RUS	.	.	.	.	.	.
+KHM	Cambodia	181035	160.035	0	Asia	1	24	Khmer	.	.	Khmer	.	.	.	.	.	.	.	FRA	.	.	.	.	.	.
+KIR	Kiribati	717	10.07148	0	Pacific	1	25	English	.	.	English	I-Kiribati	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+KNA	Saint Kitts and Nevis	269	6.168931	0	America	1	17	English	.	.	English	Leeward Caribbean Creole English	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+KOR	Korea	99484	118.6343	0	Asia	1	25	Korean	.	.	Korean	English	.	.	.	.	.	.	JPN	.	.	.	.	.	.
+KWT	Kuwait	17818	50.20689	0	Asia	1	25	Arabic	.	.	Arabic	English	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+LAO	Lao People's Democratic Republic	236800	183.031	1	Asia	1	23	Lao	.	.	Thai	.	.	.	Khmu	.	.	.	FRA	.	.	.	.	.	.
+LBN	Lebanon	10452	38.45329	0	Asia	1	19	Arabic	French	.	Arabic	French	English	.	.	.	.	.	FRA	.	.	.	.	.	.
+LBR	Liberia	111369	125.5209	0	Africa	1	18	English	.	.	English	.	.	.	Bassa	Kpelle	.	.	FRA	.	.	.	.	.	.
+LBY	Libyan Arab Jamahiriya	1759540	498.9228	0	Africa	1	25	Arabic	.	.	Arabic	.	.	.	.	.	.	.	TUR	ITA	.	.	.	.	.
+LCA	Saint Lucia	617	9.342786	0	America	1	12	English	.	.	English	Lesser Antillean Creole French	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+LKA	Sri Lanka	65610	96.3427	0	Asia	1	25	Sinhala	.	.	Sinhala	.	.	.	Tamil	.	.	.	GBR	.	.	.	NLD	.	.
+LSO	Lesotho	30355	65.53132	1	Africa	1	11	English	Sesotho	.	English	Sesotho	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+LTU	Lithuania	65300	96.11483	0	Europe	1	25	Lithuanian	.	.	Lithuanian	.	.	.	.	.	.	.	RUS	.	.	.	.	.	.
+LUX	Luxembourg	2586	19.12705	1	Europe	1	25	French	German	Luxembourgish	Luxembourgish	.	.	.	.	.	.	.	NLD	.	.	.	.	.	.
+LVA	Latvia	64589	95.59013	0	Europe	1	25	Latvian	.	.	Latvian	.	.	.	.	.	.	.	RUS	.	.	.	SWE	.	.
+MAR	Morocco	710850	317.1194	0	Africa	1	25	Arabic	French	.	Arabic	French	.	.	Tachelhit	Tamazghit	.	.	FRA	.	.	.	.	.	.
+MDA	Moldova, Rep.of	33700	69.04763	0	Europe	1	25	Romanian	.	.	Romanian	.	.	.	Bulgarian	.	.	.	RUS	.	.	.	.	.	.
+MDG	Madagascar	587041	288.1828	0	Africa	1	25	French	.	.	Malagasy	French	.	.	.	.	.	.	FRA	.	.	.	.	.	.
+MDV	Maldives	298	6.492948	0	Asia	1	25	Maldivian	.	.	Maldivian	.	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+MEX	Mexico	1967210	527.5446	0	America	1	25	Spanish	.	.	Spanish	.	.	.	.	.	.	.	ESP	.	.	.	.	.	.
+MHL	Marshall Islands	181	5.060263	0	Pacific	1	3	English	.	.	English	Marshallese	.	.	.	.	.	.	.	.	.	.	.	.	.
+MKD	Macedonia (the former Yugoslav Rep. of)	25713	60.3129	1	Europe	1	25	Macedonian	.	.	Macedonian	.	.	.	Albanian	.	.	.	TUR	.	.	.	YUG	.	.
+MLI	Mali	1240142	418.8606	1	Africa	1	25	French	.	.	Bambara	.	.	.	Fulfulde	Senoufo	.	.	FRA	.	.	.	.	.	.
+MLT	Malta	316	6.686169	0	Europe	1	25	English	.	.	Maltese	English	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+MMR	Burma	678500	309.8195	0	Asia	1	25	Burmese	.	.	Burmese	.	.	.	.	.	.	.	GBR	.	.	.	IND	.	.
+MNG	Mongolia	1565500	470.6091	1	Asia	1	25	Mongolian	.	.	Mongolian	.	.	.	.	.	.	.	CHN	.	.	.	.	.	.
+MOZ	Mozambique	801590	336.7518	0	Africa	1	25	Portuguese	.	.	Macua	Portuguese	.	.	Tsonga	.	.	.	PRT	.	.	.	.	.	.
+MRT	Mauritania	1030700	381.8563	0	Africa	1	20	Arabic	.	.	Hassaniya Arabic	.	.	.	.	.	.	.	FRA	.	.	.	.	.	.
+MUS	Mauritius	2045	17.00907	0	Africa	1	25	English	French	.	Morisyen	French	.	.	English	.	.	.	GBR	.	.	.	FRA	NLD	.
+MWI	Malawi	118484	129.4684	1	Africa	1	25	English	.	.	Chichewa	.	.	.	Lomwé	Yao	English	.	GBR	.	.	.	.	.	.
+MYS	Malaysia	329758	215.9889	0	Asia	1	25	Malay	Chinese	.	Malay	Chinese Min Nan	.	.	Tamoul	Chinese Yue	Chinese Hakka	.	GBR	.	.	.	.	.	.
+NAM	Namibia	825518	341.741	0	Africa	1	25	English	.	.	English	Kwanyama	.	.	Afrikaans	.	.	.	DEU	ZAF	.	.	.	.	.
+NER	Niger	1267000	423.372	1	Africa	1	25	French	Arabic	.	Hausa	Zarma	French	.	.	.	.	.	FRA	.	.	.	.	.	.
+NGA	Nigeria	923768	361.5058	0	Africa	1	25	English	.	.	Yorouba	Hausa	English	.	Igbo	.	.	.	GBR	.	.	.	.	.	.
+NGA	Nigeria	923768	361.5058	0	Africa	0	25	English	.	.	Yorouba	Hausa	English	.	Igbo	.	.	.	GBR	.	.	.	.	.	.
+NIC	Nicaragua	130670	135.9633	0	America	1	25	Spanish	.	.	Spanish	.	.	.	.	.	.	.	ESP	.	.	.	.	.	.
+NLD	Netherlands	41863	76.95715	0	Europe	1	25	Dutch	.	.	Dutch	.	.	.	.	.	.	.	.	.	.	.	ESP	.	.
+NOR	Norway	323752	214.0129	0	Europe	1	25	Norwegian	.	.	Norwegian	.	.	.	.	.	.	.	.	.	.	.	DNK	.	.
+NPL	Nepal	147181	144.2978	1	Asia	1	25	Nepali	.	.	Nepali	.	.	.	Maithili	.	.	.	.	.	.	.	.	.	.
+NZL	New Zealand	268676	194.9612	0	Pacific	1	25	English	.	.	English	.	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+OMN	Oman	212379	173.3363	0	Asia	1	25	Arabic	.	.	Arabic	.	.	.	Balochi Southern	.	.	.	.	.	.	.	ESP	.	.
+PAK	Pakistan	882872	353.4131	0	Asia	1	25	Urdu	Sindhi	English	Urdu	Punjabi	English	Sindhi	.	.	.	.	GBR	.	.	.	.	.	.
+PAN	Panama	75648	103.4505	0	America	1	25	Spanish	.	.	Spanish	.	.	.	.	.	.	.	ESP	.	.	.	COL	.	.
+PER	Peru	1285216	426.4046	0	America	1	25	Spanish	.	.	Spanish	.	.	.	Quecha	.	.	.	ESP	.	.	.	.	.	.
+PHL	Philippines	300000	206.0129	0	Asia	1	25	English	.	.	English	Filipino	Cebuano	.	Hiligaynon	Ilocano	.	.	ESP	USA	.	.	.	.	.
+PLW	Palau	487	8.300385	0	Pacific	1	17	English	.	.	English	Palauan	.	.	.	.	.	.	GBR	DEU	USA	JPN	.	.	.
+PNG	Papua New Guinea	462840	255.8876	0	Pacific	1	25	English	Hiri Motu	Tok Pisin	Tok Pisin	.	.	.	Motu	English	.	.	GBR	DEU	AUS	.	.	.	.
+POL	Poland	312685	210.3233	0	Europe	1	25	Polish	.	.	Polish	.	.	.	.	.	.	.	DEU	.	.	.	RUS	.	.
+PRK	Korea, Dem. People's Rep. of	120538	130.5858	0	Asia	1	15	Korean	.	.	Korean	.	.	.	.	.	.	.	JPN	.	.	.	.	.	.
+PRT	Portugal	92389	114.3257	0	Europe	1	25	Portuguese	.	.	Portuguese	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+PRY	Paraguay	406752	239.8826	1	America	1	25	Spanish	.	.	Guarani	Spanish	.	.	.	.	.	.	ESP	.	.	.	.	.	.
+QAT	Qatar	11437	40.22443	0	Asia	1	13	Arabic	Persian	.	Arabic	Persian	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+ROU	Romania	238391	183.6448	0	Europe	1	25	Romanian	.	.	Romanian	.	.	.	Hungarian	.	.	.	.	.	.	.	TUR	AUT	HUN
+RUS	Russian Federation	17075400	1554.244	0	Asia	1	25	Russian	.	.	Russian	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+RWA	Rwanda	26338	61.0415	1	Africa	1	12	French	English	Rwanda	Rwanda	English	.	.	French	.	.	.	BEL	DEU	.	.	.	.	.
+SAU	Saudi Arabia	2153168	551.9157	0	Asia	1	25	Arabic	.	.	Arabic	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+SDN	Sudan	2505813	595.399	0	Africa	1	25	Arabic	.	.	Arabic	.	.	.	.	.	.	.	GBR	EGY	.	.	.	.	.
+SEN	Senegal	196722	166.8247	0	Africa	1	25	French	.	.	French	Wolof	Pulaar	.	Serer-Sine	.	.	.	FRA	.	.	.	.	.	.
+SGP	Singapore	646	9.559828	0	Asia	1	1	English	Chinese	.	English	Chinese Min Nan	.	.	Chinese Yue	Malay	.	.	GBR	.	.	.	.	.	.
+SLB	Solomon Islands	29785	64.91314	0	Pacific	1	9	English	.	.	Solomons Pidgin	.	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+SLE	Sierra Leone	73326	101.8504	0	Africa	1	25	English	.	.	English	.	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+SLV	El Salvador	21041	54.55907	0	America	1	25	Spanish	.	.	Spanish	.	.	.	.	.	.	.	ESP	.	.	.	.	.	.
+SMR	San Marino	61	2.937641	0	Europe	1	9	Italian	.	.	Italian	Emiliano-Romagnolo	.	.	.	.	.	.	.	.	.	.	.	.	.
+SOM	Somalia	637657	300.3498	0	Africa	1	25	Somali	English	Arabic	Somali	.	.	.	.	.	.	.	GBR	ITA	.	.	.	.	.
+STP	Sao Tome and Principe	964	11.6781	0	Africa	1	6	Portuguese	.	.	Portuguese	Sãotomense	.	.	.	.	.	.	PRT	.	.	.	.	.	.
+SUR	Suriname	163820	152.236	0	America	1	14	Dutch	Hindi	.	Dutch	Hindustani Caribbean	Sranan	.	Javanese Caribbean	.	.	.	NLD	.	.	.	.	.	.
+SVK	Slovakia	49036	83.2897	1	Europe	1	25	Slovak	.	.	Slovak	.	.	.	Hungarian	.	.	.	HUN	.	.	.	.	.	.
+SVN	Slovenia	20256	53.53165	0	Europe	1	25	Slovenian	.	.	Slovenian	.	.	.	.	.	.	.	AUT	.	.	.	YUG	HUN	.
+SWE	Sweden	449964	252.3032	0	Europe	1	25	Swedish	.	.	Swedish	.	.	.	Skane	.	.	.	.	.	.	.	.	.	.
+SWZ	Swaziland	17364	49.56313	1	Africa	1	25	Swati	English	.	Swati	.	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+SYC	Seychelles	455	8.02305	0	Africa	1	5	English	French	.	Seselwa Creole French	French	English	.	.	.	.	.	GBR	FRA	.	.	.	.	.
+SYR	Syrian Arab Republic	184004	161.342	0	Asia	1	25	Arabic	.	.	Arabic	.	.	.	.	.	.	.	FRA	TUR	.	.	.	.	.
+TCD	Chad	1284005	426.2036	1	Africa	1	25	French	Arabic	.	Arabic	.	.	.	Ngambay	.	.	.	FRA	.	.	.	.	.	.
+TGO	Togo	56785	89.62943	0	Africa	1	25	French	.	.	French	Éwé	.	.	Kabiyé	.	.	.	FRA	.	.	.	.	.	.
+THA	Thailand	513115	269.427	0	Asia	1	25	Thai	.	.	Thai	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+TJK	Tajikistan	143095	142.2807	1	Asia	1	25	Tajik	.	.	Tajik	.	.	.	.	.	.	.	RUS	.	.	.	.	.	.
+TKM	Turkmenistan	488100	262.7775	1	Asia	1	25	Turkmen	.	.	Turkmen	.	.	.	.	.	.	.	RUS	.	.	.	.	.	.
+TLS	East Timor	14874	45.872	0	Asia	1	19	Tetum	Portuguese	.	Tetum	Mambae	.	.	.	.	.	.	PRT	IDN	.	.	IDN	.	.
+TON	Tonga	748	10.2869	0	Pacific	1	9	Tongan	English	.	Tongan	.	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+TTO	Trinidad and Tobago	5130	26.93968	0	America	1	22	English	.	.	English	.	.	.	Lesser Antillean Creole French	.	.	.	GBR	.	.	.	.	.	.
+TUN	Tunisia	164150	152.3892	0	Africa	1	25	Arabic	French	.	Arabic	.	.	.	.	.	.	.	FRA	TUR	.	.	.	.	.
+TUR	Turkey	780576	332.3085	0	Europe	1	25	Turkish	.	.	Turkish	.	.	.	Kurmanji	.	.	.	.	.	.	.	.	.	.
+TUR	Turkey	780576	332.3085	0	Europe	0	25	Turkish	.	.	Turkish	.	.	.	Kurmanji	.	.	.	.	.	.	.	.	.	.
+TUV	Tuvalu	26	1.917876	0	Pacific	1	8	Tuvaluan	.	.	Tuvaluan	.	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+TWN	Taiwan	35875	71.24096	0	Asia	1	25	Chinese	.	.	Chinese Hakka	Chinese Mandarin	Chinese Min Nan	.	.	.	.	.	JPN	.	.	.	CHN	.	.
+TZA	Tanzania, United Rep. of 	945090	365.6541	0	Africa	1	25	English	Swahili	.	Swahili	.	.	.	Sukuma	.	.	.	GBR	.	.	.	.	.	.
+TZA	Tanzania, United Rep. of 	945090	365.6541	0	Africa	0	25	English	Swahili	.	Swahili	.	.	.	Sukuma	.	.	.	GBR	.	.	.	.	.	.
+UGA	Uganda	241038	184.6616	1	Africa	1	25	English	.	.	Ganda	.	.	.	English	.	.	.	GBR	.	.	.	.	.	.
+UKR	Ukraine	603677	292.2376	0	Europe	1	25	Ukrainian	.	.	Ukrainian	.	.	.	.	.	.	.	RUS	.	.	.	.	.	.
+URY	Uruguay	176215	157.8902	0	America	1	25	Spanish	.	.	Spanish	.	.	.	.	.	.	.	ESP	.	.	.	BRA	.	.
+USA	United States of America	9529106	1161.074	0	America	1	25	English	.	.	English	.	.	.	Spanish	.	.	.	GBR	FRA	ESP	.	.	.	.
+USA	United States of America	9529106	1161.074	0	America	0	25	English	.	.	English	.	.	.	Spanish	.	.	.	GBR	FRA	ESP	.	.	.	.
+UZB	Uzbekistan	447400	251.5833	1	Asia	1	25	Uzbek	.	.	Uzbek	.	.	.	.	.	.	.	RUS	.	.	.	.	.	.
+VCT	Saint Vincent and the Grenadines	389	7.418372	0	America	1	10	English	.	.	English	Windward Caribbean Creole English	.	.	.	.	.	.	GBR	.	.	.	.	.	.
+VEN	Venezuela	911930	359.182	0	America	1	25	Spanish	.	.	Spanish	.	.	.	.	.	.	.	ESP	.	.	.	.	.	.
+VNM	Viet Nam	331114	216.4326	0	Asia	1	25	Vietnamese	.	.	Vietnamese	.	.	.	.	.	.	.	FRA	.	.	.	.	.	.
+VUT	Vanuatu	14763	45.70052	0	Pacific	1	8	English	French	Bismala	English	French	Bismala	.	.	.	.	.	GBR	FRA	.	.	.	.	.
+WSM	Samoa	2842	20.05145	0	Pacific	1	11	Samoan	English	.	Samoan	English	.	.	.	.	.	.	DEU	NZL	.	.	.	.	.
+YEM	Yemen	547244	278.243	0	Asia	1	25	Arabic	.	.	Arabic	.	.	.	.	.	.	.	GBR	TUR	.	.	.	.	.
+ZAF	South Africa	1219912	415.4302	0	Africa	0	25	English	.	.	Zoulou	Xhosa	English	.	Afrikaans	Shoto	.	.	GBR	NLD	.	.	.	.	.
+ZAF	South Africa	1219912	415.4302	0	Africa	1	25	English	.	.	Zoulou	Xhosa	English	.	Afrikaans	Shoto	.	.	GBR	NLD	.	.	.	.	.
+COD	Congo (Democratic Republic of the)	2345410	576.0275	0	Africa	1	25	French	.	.	Swahili	Lingala	.	.	Kikongo	Luba-Kasai	French	.	BEL	.	.	.	.	.	.
+ZMB	Zambia	752614	326.3022	1	Africa	1	25	English	.	.	English	.	.	.	Nyanja	Tonga	.	.	GBR	.	.	.	.	.	.
+ZWE	Zimbabwe	390759	235.1193	1	Africa	1	25	English	.	.	Shona	English	.	.	Ndebele	.	.	.	GBR	.	.	.	.	.	.
+SRB	Serbia	102173	120.227	0	Europe	1	25	Serbo-Croatian	.	.	Serbo-Croatian	.	.	.	Albanian	.	.	.	TUR	.	.	.	.	.	.
+MNE	Montenegro	102173	120.227	0	Europe	1	25	Serbo-Croatian	.	.	Serbo-Croatian	.	.	.	Albanian	.	.	.	TUR	.	.	.	.	.	.
