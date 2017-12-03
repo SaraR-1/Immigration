@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-12-03T11:39:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/42004",
+        "ISO3166-2": "IT-55",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "name": "Umbria",
+        "name:ca": "Úmbria",
+        "name:cs": "Umbrie",
+        "name:de": "Umbrien",
+        "name:en": "Umbria",
+        "name:eo": "Umbrio",
+        "name:es": "Umbría",
+        "name:fr": "Ombrie",
+        "name:fur": "Umbrie",
+        "name:pl": "Umbria",
+        "name:pt": "Úmbria",
+        "name:ru": "Умбрия",
+        "name:sl": "Umbrija",
+        "ref:ISTAT": "10",
+        "type": "boundary",
+        "wikidata": "Q1280",
+        "wikipedia": "it:Umbria",
+        "@timestamp": "2017-05-11T07:37:01Z",
+        "@version": "38",
+        "@changeset": "48583432",
+        "@user": "PavelPS",
+        "@uid": "25561",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5780384,
+          42.9908966
+        ]
+      },
+      "id": "relation/42004"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-12-03T11:29:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/53937",
+        "ISO3166-2": "IT-65",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "name": "Abruzzo",
+        "name:ca": "Abruços",
+        "name:cs": "Abruzzo",
+        "name:de": "Abruzzen",
+        "name:en": "Abruzzo",
+        "name:es": "Abruzos",
+        "name:fr": "Abruzzes",
+        "name:pl": "Abruzja",
+        "name:ru": "Абруццо",
+        "name:scn": "Abbruzzi",
+        "name:sl": "Abruci",
+        "ref:ISTAT": "13",
+        "short_name": "ABR",
+        "type": "boundary",
+        "wikidata": "Q1284",
+        "wikipedia": "it:Abruzzo",
+        "@timestamp": "2017-05-11T07:41:38Z",
+        "@version": "200",
+        "@changeset": "48583557",
+        "@user": "PavelPS",
+        "@uid": "25561",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9016475,
+          42.2885598
+        ]
+      },
+      "id": "relation/53937"
+    }
+  ]
+}

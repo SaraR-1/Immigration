@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-12-03T11:30:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/40218",
+        "ISO3166-2": "IT-72",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "name": "Campania",
+        "name:ca": "Campània",
+        "name:cs": "Kampánie",
+        "name:de": "Kampanien",
+        "name:en": "Campania",
+        "name:fr": "Campanie",
+        "name:pl": "Kampania",
+        "name:ru": "Кампания",
+        "name:sk": "Kampánia",
+        "name:sl": "Kampanija",
+        "ref:ISTAT": "15",
+        "short_name": "CAM",
+        "type": "boundary",
+        "wikidata": "Q1438",
+        "wikipedia": "it:Campania",
+        "@timestamp": "2017-05-11T07:30:44Z",
+        "@version": "152",
+        "@changeset": "48583221",
+        "@user": "PavelPS",
+        "@uid": "25561",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7844134,
+          40.7494545
+        ]
+      },
+      "id": "relation/40218"
+    }
+  ]
+}

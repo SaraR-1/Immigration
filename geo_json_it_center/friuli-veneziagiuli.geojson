@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-12-03T11:32:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/179296",
+        "ISO3166-2": "IT-36",
+        "admin_level": "4",
+        "alt_name": "Friuli-Venezia Giulia",
+        "alt_name:cs": "Furlansko a Julské Benátsko",
+        "boundary": "administrative",
+        "name": "Friuli-Venezia Giulia",
+        "name:ca": "Friül - Venècia Júlia",
+        "name:cs": "Furlansko-Julské Benátsko",
+        "name:de": "Friaul-Julisch Venetien",
+        "name:en": "Friuli Venezia Giulia",
+        "name:eo": "Friulo-Venecio Julia",
+        "name:es": "Friuli-Venecia Julia",
+        "name:fr": "Frioul-Vénétie julienne",
+        "name:fur": "Friûl Vignesie Julie",
+        "name:pl": "Friuli-Wenecja Julijska",
+        "name:pt": "Friul-Veneza Júlia",
+        "name:ro": "Friuli-Veneția Giulia",
+        "name:ru": "Фриули-Венеция-Джулия",
+        "name:sk": "Furlansko-Júlske Benátky",
+        "name:sl": "Furlanija Julijska Krajina",
+        "official_name": "Regione Autonoma Friuli Venezia Giulia",
+        "ref:ISTAT": "06",
+        "short_name": "FVG",
+        "type": "boundary",
+        "wikidata": "Q1250",
+        "wikipedia": "it:Friuli-Venezia Giulia",
+        "@timestamp": "2017-11-23T09:47:41Z",
+        "@version": "168",
+        "@changeset": "54021676",
+        "@user": "Constable",
+        "@uid": "527535",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1200182,
+          46.1144263
+        ]
+      },
+      "id": "relation/179296"
+    }
+  ]
+}

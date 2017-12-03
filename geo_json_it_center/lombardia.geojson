@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-12-03T11:34:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/44879",
+        "ISO3166-2": "IT-25",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "name": "Lombardia",
+        "name:ca": "Llombardia",
+        "name:cs": "Lombardie",
+        "name:de": "Lombardei",
+        "name:en": "Lombardy",
+        "name:es": "Lombardía",
+        "name:fi": "Lombardia",
+        "name:fr": "Lombardie",
+        "name:it": "Lombardia",
+        "name:pl": "Lombardia",
+        "name:ru": "Ломбардия",
+        "name:scn": "Lummardia",
+        "name:sk": "Lombardia",
+        "name:sl": "Lombardija",
+        "ref:ISTAT": "03",
+        "ref:nuts": "ITC4",
+        "ref:nuts:2": "ITC4",
+        "short_name": "LOM",
+        "type": "boundary",
+        "wikidata": "Q1210",
+        "wikipedia": "it:Lombardia",
+        "@timestamp": "2017-10-22T07:48:30Z",
+        "@version": "219",
+        "@changeset": "53144845",
+        "@user": "houtari",
+        "@uid": "2186388",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9627498,
+          45.6576307
+        ]
+      },
+      "id": "relation/44879"
+    }
+  ]
+}

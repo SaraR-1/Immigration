@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-12-03T11:36:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/44874",
+        "ISO3166-2": "IT-21",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "name": "Piemonte",
+        "name:ca": "Piemont",
+        "name:cs": "Piemont",
+        "name:de": "Piemont",
+        "name:en": "Piemont",
+        "name:es": "Piamonte",
+        "name:fi": "Piemonte",
+        "name:fr": "Piémont",
+        "name:pl": "Piemont",
+        "name:ru": "Пьемонт",
+        "name:scn": "Piemunti",
+        "name:sl": "Piemont",
+        "ref:ISTAT": "01",
+        "short_name": "PIE",
+        "type": "boundary",
+        "wikidata": "Q1216",
+        "wikipedia": "it:Piemonte",
+        "@timestamp": "2017-10-22T19:44:00Z",
+        "@version": "116",
+        "@changeset": "53160920",
+        "@user": "houtari",
+        "@uid": "2186388",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9207531,
+          45.2619685
+        ]
+      },
+      "id": "relation/44874"
+    }
+  ]
+}

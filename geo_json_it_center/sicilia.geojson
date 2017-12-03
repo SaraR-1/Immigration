@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-12-03T11:37:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/6197225",
+        "name": "Sicilia",
+        "name:ar": "صقلية",
+        "name:cs": "Sicílie",
+        "name:fr": "Sicile",
+        "name:it": "Isola di Sicilia",
+        "name:lt": "Sicilijos sala",
+        "name:sk": "Sicília",
+        "place": "island",
+        "type": "multipolygon",
+        "wikidata": "Q4951156",
+        "wikipedia": "it:Isola di Sicilia",
+        "@timestamp": "2017-09-25T18:25:18Z",
+        "@version": "23",
+        "@changeset": "52363639",
+        "@user": "fayor",
+        "@uid": "743479",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0385792,
+          37.4741376
+        ]
+      },
+      "id": "relation/6197225"
+    }
+  ]
+}

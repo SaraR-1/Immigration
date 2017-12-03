@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-12-03T11:32:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/40784",
+        "ISO3166-2": "IT-62",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "name": "Lazio",
+        "name:ca": "Laci",
+        "name:cs": "Lazio",
+        "name:de": "Latium",
+        "name:en": "Lazio",
+        "name:es": "Lacio",
+        "name:fr": "Latium",
+        "name:pl": "Lacjum",
+        "name:ru": "Лацио",
+        "name:scn": "Lazziu",
+        "name:sl": "Lacij",
+        "ref:ISTAT": "12",
+        "short_name": "LAZ",
+        "type": "boundary",
+        "wikidata": "Q1282",
+        "wikipedia": "it:Lazio",
+        "@timestamp": "2017-09-15T16:50:01Z",
+        "@version": "174",
+        "@changeset": "52074463",
+        "@user": "Alecs01",
+        "@uid": "1476146",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.738407,
+          41.8125346
+        ]
+      },
+      "id": "relation/40784"
+    }
+  ]
+}

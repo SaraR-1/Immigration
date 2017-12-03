@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-12-03T11:30:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1783980",
+        "ISO3166-2": "IT-78",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "name": "Calabria",
+        "name:ar": "كالابريا",
+        "name:ca": "Calàbria",
+        "name:cs": "Kalábrie",
+        "name:de": "Kalabrien",
+        "name:en": "Calabria",
+        "name:eo": "Kalabrio",
+        "name:fr": "Calabre",
+        "name:fur": "Calabrie",
+        "name:lt": "Kalabrija",
+        "name:pl": "Kalabria",
+        "name:pt": "Calábria",
+        "name:ru": "Калабрия",
+        "name:scn": "Calabbrî",
+        "name:sk": "Kalábria",
+        "name:sl": "Kalabrija",
+        "ref:ISTAT": "18",
+        "short_name": "CAL",
+        "type": "boundary",
+        "wikidata": "Q1458",
+        "wikipedia": "it:Calabria",
+        "@timestamp": "2017-07-06T13:36:46Z",
+        "@version": "58",
+        "@changeset": "50085487",
+        "@user": "ألبرشت شونكا",
+        "@uid": "4860517",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4177931,
+          39.0303594
+        ]
+      },
+      "id": "relation/1783980"
+    }
+  ]
+}

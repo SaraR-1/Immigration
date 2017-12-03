@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-12-03T11:34:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/53060",
+        "ISO3166-2": "IT-57",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "name": "Marche",
+        "name:ca": "Marques",
+        "name:de": "Marken",
+        "name:eo": "Markio",
+        "name:es": "Marcas",
+        "name:fr": "Marches",
+        "name:lt": "Markė",
+        "name:pl": "Marche",
+        "name:pt": "Marcas",
+        "name:ru": "Марке",
+        "name:scn": "Marchi",
+        "name:sk": "Marky",
+        "name:sl": "Marke",
+        "ref:ISTAT": "11",
+        "short_name": "MAR",
+        "type": "boundary",
+        "wikidata": "Q1279",
+        "wikipedia": "it:Marche",
+        "@timestamp": "2017-08-30T16:48:04Z",
+        "@version": "161",
+        "@changeset": "51586792",
+        "@user": "maxfranco64",
+        "@uid": "5673554",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0509065,
+          43.3292325
+        ]
+      },
+      "id": "relation/53060"
+    }
+  ]
+}

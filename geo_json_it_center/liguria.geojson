@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-12-03T11:33:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/301482",
+        "ISO3166-2": "IT-42",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "name": "Liguria",
+        "name:ca": "Ligúria",
+        "name:cs": "Ligurie",
+        "name:de": "Ligurien",
+        "name:en": "Liguria",
+        "name:eo": "Ligurio",
+        "name:fi": "Liguria",
+        "name:fr": "Ligurie",
+        "name:nl": "Ligurië",
+        "name:pl": "Liguria",
+        "name:pt": "Ligúria",
+        "name:ru": "Лигурия",
+        "name:sk": "Ligúria",
+        "name:sl": "Ligurija",
+        "name:sv": "Ligurien",
+        "ref:ISTAT": "07",
+        "short_name": "LIG",
+        "type": "boundary",
+        "wikidata": "Q1256",
+        "wikipedia": "it:Liguria",
+        "@timestamp": "2017-12-02T21:36:41Z",
+        "@version": "152",
+        "@changeset": "54282612",
+        "@user": "lorec10",
+        "@uid": "3993737",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7835983,
+          44.2260665
+        ]
+      },
+      "id": "relation/301482"
+    }
+  ]
+}

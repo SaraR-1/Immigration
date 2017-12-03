@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-12-03T11:36:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/40095",
+        "ISO3166-2": "IT-75",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "name": "Puglia",
+        "name:ca": "Pulla",
+        "name:cs": "Apulie",
+        "name:de": "Apulien",
+        "name:en": "Apulia",
+        "name:eo": "Apulio",
+        "name:es": "Apulia",
+        "name:fi": "Apulia",
+        "name:fr": "Pouilles",
+        "name:it": "Puglia",
+        "name:la": "Apulia",
+        "name:pl": "Apulia",
+        "name:pt": "Apúlia",
+        "name:ru": "Апулия",
+        "name:scn": "Pugghia",
+        "name:sk": "Apúlia",
+        "name:sl": "Apulija",
+        "ref:ISTAT": "16",
+        "short_name": "PUG",
+        "type": "boundary",
+        "wikidata": "Q1447",
+        "wikipedia": "it:Puglia",
+        "@timestamp": "2017-10-28T16:29:58Z",
+        "@version": "141",
+        "@changeset": "53322183",
+        "@user": "niubii",
+        "@uid": "1987",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7277406,
+          41.0080375
+        ]
+      },
+      "id": "relation/40095"
+    }
+  ]
+}

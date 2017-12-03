@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-12-03T11:35:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/41256",
+        "ISO3166-2": "IT-67",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "name": "Molise",
+        "name:ca": "Molise",
+        "name:cs": "Molise",
+        "name:en": "Molise",
+        "name:fr": "Molise",
+        "name:pl": "Molise",
+        "name:ru": "Молизе",
+        "name:scn": "Mulisi",
+        "name:sl": "Molize",
+        "ref:ISTAT": "14",
+        "short_name": "MOL",
+        "type": "boundary",
+        "wikidata": "Q1443",
+        "wikipedia": "it:Molise",
+        "@timestamp": "2017-05-11T07:45:30Z",
+        "@version": "35",
+        "@changeset": "48583650",
+        "@user": "PavelPS",
+        "@uid": "25561",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5513487,
+          41.7171235
+        ]
+      },
+      "id": "relation/41256"
+    }
+  ]
+}

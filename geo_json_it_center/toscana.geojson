@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-12-03T11:39:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/41977",
+        "ISO3166-2": "IT-52",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "name": "Toscana",
+        "name:cs": "Toskánsko",
+        "name:de": "Toskana",
+        "name:en": "Tuscany",
+        "name:eo": "Toskanio",
+        "name:es": "Toscana",
+        "name:fi": "Toscana",
+        "name:fr": "Toscane",
+        "name:fur": "Toscane",
+        "name:la": "Tuscia",
+        "name:pl": "Toskania",
+        "name:ru": "Тоскана",
+        "name:scn": "Tuscana",
+        "name:sk": "Toskánsko",
+        "name:sl": "Toskana",
+        "name:sv": "Toscana",
+        "ref:ISTAT": "09",
+        "ref:nuts": "ITE1",
+        "ref:nuts:2": "ITE1",
+        "short_name": "TOS",
+        "type": "boundary",
+        "wikidata": "Q1273",
+        "wikipedia": "it:Toscana",
+        "@timestamp": "2017-12-01T20:26:21Z",
+        "@version": "261",
+        "@changeset": "54248513",
+        "@user": "Antonio Ceglia",
+        "@uid": "7126876",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0290795,
+          43.3551056
+        ]
+      },
+      "id": "relation/41977"
+    }
+  ]
+}

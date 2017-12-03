@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-12-03T11:29:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/47207",
+        "admin_level": "8",
+        "boundary": "administrative",
+        "name": "Bolzano",
+        "name:de": "Bozen",
+        "name:it": "Bolzano",
+        "ref:ISTAT": "021008",
+        "ref:catasto": "A952",
+        "type": "boundary",
+        "wikidata": "Q6526",
+        "wikipedia": "it:Bolzano",
+        "@timestamp": "2016-12-08T07:04:03Z",
+        "@version": "21",
+        "@changeset": "44251346",
+        "@user": "nyuriks",
+        "@uid": "339581",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3539834,
+          46.4876488
+        ]
+      },
+      "id": "relation/47207"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-12-03T11:40:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/43648",
+        "ISO3166-2": "IT-34",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "name": "Veneto",
+        "name:bar": "Venezien",
+        "name:ca": "Vèneto",
+        "name:cs": "Benátsko",
+        "name:de": "Venetien",
+        "name:en": "Veneto",
+        "name:es": "Véneto",
+        "name:fr": "Vénétie",
+        "name:fur": "Venit",
+        "name:la": "Venetia",
+        "name:lt": "Venetas",
+        "name:pl": "Wenecja Euganejska",
+        "name:pt": "Véneto",
+        "name:ru": "Венето",
+        "name:scn": "Venitu",
+        "name:sk": "Benátsko",
+        "name:sl": "Benečija",
+        "name:vec": "Venesia",
+        "ref:ISTAT": "05",
+        "short_name": "VEN",
+        "type": "boundary",
+        "wikidata": "Q1243",
+        "wikipedia": "it:Veneto",
+        "@timestamp": "2017-11-23T09:47:40Z",
+        "@version": "185",
+        "@changeset": "54021676",
+        "@user": "Constable",
+        "@uid": "527535",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8626368,
+          45.7365209
+        ]
+      },
+      "id": "relation/43648"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-12-03T11:31:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/42611",
+        "ISO3166-2": "IT-45",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "name": "Emilia-Romagna",
+        "name:ca": "Emília-Romanya",
+        "name:cs": "Emilia-Romagna",
+        "name:egl": "Emélia-Rumàgna",
+        "name:en": "Emilia-Romagna",
+        "name:es": "Emilia-Romaña",
+        "name:fi": "Emilia-Romagna",
+        "name:fr": "Émilie-Romagne",
+        "name:lt": "Emilija-Romanija",
+        "name:pl": "Emilia-Romania",
+        "name:ru": "Эмилия-Романья",
+        "name:scn": "Emilia-Rumagna",
+        "name:sl": "Emilija - Romanja",
+        "ref:ISTAT": "08",
+        "ref:nuts": "ITD5",
+        "ref:nuts:2": "ITD5",
+        "short_name": "EMR",
+        "type": "boundary",
+        "wikidata": "Q1263",
+        "wikipedia": "it:Emilia-Romagna",
+        "@timestamp": "2017-10-26T17:21:30Z",
+        "@version": "224",
+        "@changeset": "53268965",
+        "@user": "mike140",
+        "@uid": "2471547",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9769062,
+          44.4356999
+        ]
+      },
+      "id": "relation/42611"
+    }
+  ]
+}

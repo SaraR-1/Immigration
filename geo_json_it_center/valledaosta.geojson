@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-12-03T11:40:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/45155",
+        "ISO3166-2": "IT-23",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "name": "Valle d'Aosta",
+        "name:ca": "Vall d'Aosta",
+        "name:cs": "Údolí Aosty",
+        "name:de": "Aostatal",
+        "name:en": "Aosta Valley",
+        "name:es": "Valle de Aosta",
+        "name:fi": "Aostanlaakso",
+        "name:fr": "Vallée d'Aoste",
+        "name:it": "Valle d'Aosta",
+        "name:pl": "Dolina Aosty",
+        "name:ru": "Валле-д’Аоста",
+        "name:scn": "Vaḍḍi d'Aosta",
+        "name:sl": "Dolina Aoste",
+        "official_name:fr": "Région autonome Vallée d'Aoste",
+        "official_name:it": "Regione Autonoma Valle d'Aosta",
+        "ref:ISTAT": "02",
+        "short_name": "VDA",
+        "type": "boundary",
+        "wikidata": "Q1222",
+        "wikipedia": "it:Valle d'Aosta",
+        "@timestamp": "2017-10-22T19:39:24Z",
+        "@version": "74",
+        "@changeset": "53160828",
+        "@user": "houtari",
+        "@uid": "2186388",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3709747,
+          45.7273163
+        ]
+      },
+      "id": "relation/45155"
+    }
+  ]
+}

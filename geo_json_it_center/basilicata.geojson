@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-12-03T11:29:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/40137",
+        "ISO3166-2": "IT-77",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "name": "Basilicata",
+        "name:ca": "Basilicata",
+        "name:cs": "Basilicata",
+        "name:de": "Basilikata",
+        "name:en": "Basilicata",
+        "name:eo": "Basilikato",
+        "name:fr": "Basilicate",
+        "name:fur": "Lucanie",
+        "name:pl": "Basilicata",
+        "name:ru": "Базиликата",
+        "name:sl": "Bazilikata",
+        "ref:ISTAT": "17",
+        "short_name": "BAS",
+        "type": "boundary",
+        "wikidata": "Q1452",
+        "wikipedia": "it:Basilicata",
+        "@timestamp": "2017-05-11T07:42:22Z",
+        "@version": "28",
+        "@changeset": "48583571",
+        "@user": "PavelPS",
+        "@uid": "25561",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1010034,
+          40.5183548
+        ]
+      },
+      "id": "relation/40137"
+    }
+  ]
+}
