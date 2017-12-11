@@ -28,7 +28,7 @@ Foreigners population across Italian regions - absolute value before 2011
 
 Foreigners population across Italian regions - absolute value after 2011
 
-| Region | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 |
+| Region | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 |
 | ---------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Abruzzo | 66822 | 72947 | 82134 | 84149 | 84535 | 84758 |
 | Basilicata | 13178 | 14706 | 16943 | 18198 | 19428 | 20772 |
@@ -52,7 +52,7 @@ Foreigners population across Italian regions - absolute value after 2011
 | Valle d'Aosta | 8472 | 9146 | 9330 | 9068 | 8475 | 8250 |
 | Veneto | 446615 | 473701 | 501053 | 498787 | 485889 | 474443 |
 
-![alt text](region_lineplot.png)
+![Region Plot](region_lineplot.png)
 
 Foreigners population across Italian regions - growth value before 2011
 
@@ -82,7 +82,7 @@ Foreigners population across Italian regions - growth value before 2011
 
 Foreigners population across Italian regions - growth value after 2011
 
-| Region | 2011-2010 | 2012-2011 | 2013-2012 | 2014-2013 | 2015-2014 | 2016-2015 | 2017-2016
+| Region | 2011-2010 | 2012-2011 | 2013-2012 | 2014-2013 | 2015-2014 | 2016-2015 | 2017-2016 |
 | ---------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Abruzzo | -12517 | 6125 | 9187 | 2015 | 386 | 223 |
 | Basilicata | -1554 | 1528 | 2237 | 1255 | 1230 | 1344 |
@@ -106,4 +106,4 @@ Foreigners population across Italian regions - growth value after 2011
 | Valle d'Aosta | -238 | 674 | 184 | -262 | -593 | -225 |
 | Veneto | -51448 | 27086 | 27352 | -2266 | -12898 | -11446 |
 
-![alt text](regiongrowth_lineplot.png)
+![Region Growth Plot](regiongrowth_lineplot.png)
