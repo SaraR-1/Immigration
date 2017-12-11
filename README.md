@@ -52,7 +52,7 @@ Foreigners population across Italian regions - absolute value after 2011
 | Valle d'Aosta | 8472 | 9146 | 9330 | 9068 | 8475 | 8250 |
 | Veneto | 446615 | 473701 | 501053 | 498787 | 485889 | 474443 |
 
-![alt text](region_lineplot.png)
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/region_lineplot.png)
 
 Foreigners population across Italian regions - growth value before 2011
 
@@ -106,4 +106,4 @@ Foreigners population across Italian regions - growth value after 2011
 | Valle d'Aosta | -238 | 674 | 184 | -262 | -593 | -225 |
 | Veneto | -51448 | 27086 | 27352 | -2266 | -12898 | -11446 |
 
-![alt text](regiongrowth_lineplot.png)
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/regiongrowth_lineplot.png)
