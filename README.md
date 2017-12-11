@@ -29,7 +29,7 @@ Foreigners population across Italian regions - absolute value before 2011
 Foreigners population across Italian regions - absolute value after 2011
 
 | Region | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 |
-| ---------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| ---------- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Abruzzo | 66822 | 72947 | 82134 | 84149 | 84535 | 84758 |
 | Basilicata | 13178 | 14706 | 16943 | 18198 | 19428 | 20772 |
 | Calabria | 66885 | 74033 | 86456 | 91300 | 96836 | 102748 |
