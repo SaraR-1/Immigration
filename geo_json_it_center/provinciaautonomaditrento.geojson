@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-12-10T15:34:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/45756",
+        "ISO3166-2": "IT-TN",
+        "admin_level": "6",
+        "alt_name": "Trentino",
+        "boundary": "administrative",
+        "name": "Provincia Autonoma di Trento",
+        "name:ca": "Província de Trento",
+        "name:ru": "Тренто",
+        "official_name": "Provincia Autonoma di Trento",
+        "official_name:de": "Autonome Provinz Trient",
+        "official_name:lld": "Provinzia Autonoma de Trent",
+        "ref:ISTAT": "022",
+        "short_name": "TN",
+        "type": "boundary",
+        "wikidata": "Q16289",
+        "wikipedia": "it:Provincia autonoma di Trento",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2075036,
+          46.1028156
+        ]
+      },
+      "id": "relation/45756"
+    }
+  ]
+}

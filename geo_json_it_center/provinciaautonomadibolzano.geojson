@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-12-10T15:34:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/47046",
+        "ISO3166-2": "IT-BZ",
+        "admin_level": "6",
+        "alt_name": "Alto Adige - Südtirol",
+        "alt_name:de": "Südtirol",
+        "alt_name:it": "Alto Adige",
+        "alt_name:lld": "Südtirol",
+        "alt_name:sl": "Južna Tirolska",
+        "boundary": "administrative",
+        "name": "Provincia Autonoma di Bolzano",
+        "name:ca": "Tirol del Sud",
+        "name:de": "Bozen",
+        "name:en": "South Tyrol",
+        "name:fr": "Haut-Adige",
+        "name:it": "Bolzano",
+        "name:ru": "Больцано - Боцен",
+        "name:sl": "Zgornje Poadižje",
+        "official_name": "Provincia Autonoma di Bolzano - Autonome Provinz Bozen",
+        "official_name:de": "Autonome Provinz Bozen",
+        "official_name:it": "Provincia Autonoma di Bolzano",
+        "official_name:lld": "Provinzia Autonoma de Balsan/Bulsan",
+        "ref:ISTAT": "021",
+        "short_name": "BZ",
+        "type": "boundary",
+        "wikidata": "Q15124",
+        "wikipedia": "it:Provincia autonoma di Bolzano",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4298686,
+          46.6559587
+        ]
+      },
+      "id": "relation/47046"
+    }
+  ]
+}
