@@ -66,7 +66,7 @@ ET	ETH	Ethiopia	Etiopia	Etiopia
 FI	FIN	Finland	Finlandia	Finlandia
 FJ	FJI	Fiji	Figi	Figi
 FK	FLK	Falkland Islands (Malvinas)	Isole Falkland	Isole Falkland
-FM	FSM	Micronesia, Federated States of	Micronesia	Micronesia
+FM	FSM	Micronesia, Federated States of	Micronesia	Micronesia, Stati Federati di
 FO	FRO	Faroe Islands	Isole Fær Øer	Isole Fær Øer
 FR	FRA	France	Francia	Francia
 GA	GAB	Gabon	Gabon	Gabon
@@ -148,7 +148,7 @@ MW	MWI	Malawi	Malawi	Malawi
 MX	MEX	Mexico	Messico	Messico
 MY	MYS	Malaysia	Malaysia	Malaysia
 MZ	MOZ	Mozambique	Mozambico	Mozambico
-NA	NAM	Namibia	Namibia	Namibia
+	NAM	Namibia	Namibia	Namibia
 NC	NCL	New Caledonia	Nuova Caledonia	Nuova Caledonia
 NE	NER	Niger	Niger	Niger
 NF	NFK	Norfolk Island	Isola Norfolk	Isola Norfolk
@@ -235,3 +235,4 @@ YT	MYT	Mayotte	Mayotte	Mayotte
 ZA	ZAF	South Africa	Sudafrica	Sud Africa
 ZM	ZMB	Zambia	Zambia	Zambia
 ZW	ZWE	Zimbabwe	Zimbabwe	Zimbabwe (ex Rhodesia)
+YU	YUG	Serbia and Montenegro	Serbia e Montenegro	Serbia e Montenegro
