@@ -1,5 +1,11 @@
 # Immigration
 
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/region_lineplot.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/regiongrowth_lineplot.png)
+
+\appendix
+
 Foreigners population across Italian regions - absolute value before 2011
 
 | Region | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 |
@@ -52,8 +58,6 @@ Foreigners population across Italian regions - absolute value after 2011
 | Valle d'Aosta | 8472 | 9146 | 9330 | 9068 | 8475 | 8250 |
 | Veneto | 446615 | 473701 | 501053 | 498787 | 485889 | 474443 |
 
-![alt text](https://github.com/SaraR-1/Immigration/blob/master/region_lineplot.png)
-
 Foreigners population across Italian regions - growth value before 2011
 
 | Region | 2004-2003 | 2005-2004 | 2006-2005 | 2007-2006 | 2008-2007 | 2009-2008 | 2010-2009 |  2011-2010 |
@@ -105,5 +109,3 @@ Foreigners population across Italian regions - growth value after 2011
 | Umbria | -12125 | 4656 | 7068 | -1168 | -1545 | -915 |
 | Valle d'Aosta | -238 | 674 | 184 | -262 | -593 | -225 |
 | Veneto | -51448 | 27086 | 27352 | -2266 | -12898 | -11446 |
-
-![alt text](https://github.com/SaraR-1/Immigration/blob/master/regiongrowth_lineplot.png)
