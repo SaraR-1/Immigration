@@ -5,6 +5,7 @@
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/regiongrowth_lineplot.png)
 
 \appendix
+\section{\\Title of Appendix A}
 
 Foreigners population across Italian regions - absolute value before 2011
 
