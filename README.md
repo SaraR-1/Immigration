@@ -51,6 +51,19 @@ First I will consider only the origin continent performing again an aggregation 
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Sud.png)
 
+## Top 5 countries per Continent
+Let's see the distibution of the 5 countries more "influent" for each continent.
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Centro.png) 
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Isole.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Nord-est.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Nord-ovest.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Sud.png)
+
 ## Appendix
 
 Foreigners population across Italian regions - absolute value before 2011
