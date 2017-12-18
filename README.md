@@ -64,6 +64,10 @@ First I will consider only the origin continent performing again an aggregation 
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Sud.png)
 
+It is interesting that, even if the continent distributions are similar across the Italian zones, there are some differences. Europe is always the more influent continent and the growth rate decreases from 2014 (as aforementioned). The others continent flow is less important, BUT the growth rate is not the same for all the zones: it decreases in Centro, Nors-est and Nord-ovest and increases in Isole and Sud (which are in the "third cluster").
+
+The flow from Pacific could be overlooked. American born population is significant only in Nord-ovest and Centro.
+
 ## Top 5 countries per Continent
 Let's see the distibution of the 5 countries more "influent" for each continent.
 
