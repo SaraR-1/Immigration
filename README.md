@@ -40,10 +40,8 @@ Same distributions computed for the zones will be analyzed for the Italian regio
 I want to include in the study also the different origin territories. 
 
 ### Origin Continent
-First I will consider only the origin continent performing again an aggregation over the countries. Thus, I have a plot for every Italian zone.
-![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Centro.png)
-
-![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Isole.png)
+First I will consider only the origin continent performing again an aggregation over the countries. Thus, I have a plot for each Italian zone.
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Centro.png) ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Isole.png)
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Nord-est.png)
 
