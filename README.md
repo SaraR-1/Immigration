@@ -20,7 +20,7 @@ More specifically we will analyze:
 
 In the following plots I performed an aggregation over the origin country.
 
-![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_abs.png)
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone.png)
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_abs_growth.png)
 
@@ -41,9 +41,7 @@ I want to include in the study also the different origin territories.
 ### Origin Continent
 First I will consider only the origin continent performing again an aggregation over the countries. Thus, I have a plot for each Italian zone.
 
-            |  
-:-------------------------:|:-------------------------:
-![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Centro.png)   |  ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Isole.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Centro.png =250x250) ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Isole.png =250x250)
 
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Nord-est.png)
