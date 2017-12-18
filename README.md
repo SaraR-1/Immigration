@@ -5,6 +5,8 @@
 
 This is the gender distribution over the years, aggregated both on the destination and the origin territories.
 
+Form this stacked barplot, the distribution across the gender seems to be quite balanced.
+
 ## Zones Distribution Plots
 Here I am gonna show the zones distribution across the years. With zones I mean the Italian territories division:
 - Centro;
@@ -25,6 +27,10 @@ In the following plots I performed an aggregation over the origin country.
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_abs_growth.png)
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_prev_growth.png)
+
+Even if the growth rate is significantly decreasing, the immigration is still an increasing phenomenon. The growth change starts in 2014. In the same year (07/10/2014) there was the first agreement between the Government, the Regions and local authorities on a national level to face the flow of foreign-born population.
+
+Around 2011 there is an important decreasing. It may due to the fact that the data before 2011 is a statistical estimation, while from 2011 is an actual continuos observation. Thus, ISTAT may have overestimaded the phenomenon.
 
 ## Regions Distribution Plots
 Same distributions computed for the zones will be analyzed for the Italian regions. Here, instead of Trentino-Alto Adige, Trentino and South Tyrol are considered.
