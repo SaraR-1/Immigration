@@ -64,6 +64,63 @@ Let's see the distibution of the 5 countries more "influent" for each continent.
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Sud.png)
 
+## Countries Distribution per continent
+Here I can analyze all the countries-component for each continent.
+
+### Africa
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Africa_countries_Centro.png) 
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Africa_countries_Isole.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Africa_countries_Nord-est.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Africa_countries_Nord-ovest.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Africa_countries_Sud.png)
+
+### Asia
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Asia_countries_Centro.png) 
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Asia_countries_Isole.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Asia_countries_Nord-est.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Asia_countries_Nord-ovest.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Asia_countries_Sud.png)
+
+### Europe
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Europe_countries_Centro.png) 
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Europe_countries_Isole.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Europe_countries_Nord-est.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Europe_countries_Nord-ovest.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Europe_countries_Sud.png)
+
+### America
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_America_countries_Centro.png) 
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_America_countries_Isole.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_America_countries_Nord-est.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_America_countries_Nord-ovest.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_America_countries_Sud.png)
+
+### Pacific
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Pacific_countries_Centro.png) 
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Pacific_countries_Isole.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Pacific_countries_Nord-est.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Pacific_countries_Nord-ovest.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Pacific_countries_Sud.png)
 ## Appendix
 
 Foreigners population across Italian regions - absolute value before 2011
