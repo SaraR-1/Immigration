@@ -1,16 +1,23 @@
 # Immigration
 
+## Gender Distribution Plots
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/gender_distribution.png)
+This is the gender distribution aggregated both on the destination and the origin territories.
+
 ## Zones Distribution Plots
-Here we are gonna see the zones distribution across the years. With zones we mean the Italian territories division:
+Here I am gonna show the zones distribution across the years. With zones I mean the Italian territories division:
 - Centro;
 - Isole;
 - Nord-est;
 - Nord-ovest;
 - Sud.
+
 More specifically we will analyze:
 - the absolute value distribution;
 - the growth distribution;
-- the growth rate distribution, i.e. $(year - prev_year)/prev_year$.
+- the growth rate distribution, i.e. (year - prev_year)/prev_year.
+
+In the following plots I performed an aggregation over the origin country.
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/region_abs.png)
 
