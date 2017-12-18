@@ -2,7 +2,8 @@
 
 ## Gender Distribution Plots
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/gender_distribution.png)
-This is the gender distribution aggregated both on the destination and the origin territories.
+
+This is the gender distribution over the years, aggregated both on the destination and the origin territories.
 
 ## Zones Distribution Plots
 Here I am gonna show the zones distribution across the years. With zones I mean the Italian territories division:
@@ -34,6 +35,21 @@ Same distributions computed for the zones will be analyzed for the Italian regio
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_abs_growth.png)
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_prev_growth.png)
+
+## Zones by Origin Distribution Plots
+I want to include in the study also the different origin territories. 
+
+### Origin Continent
+First I will consider only the origin continent performing again an aggregation over the countries. Thus, I have a plot for every Italian zone.
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Centro.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Isole.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Nord-est.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Nord-ovest.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Sud.png)
 
 ## Appendix
 
