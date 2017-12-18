@@ -32,6 +32,11 @@ Even if the growth rate is significantly decreasing, the immigration is still an
 
 Around 2011 there is an important decreasing. It may due to the fact that the data before 2011 is a statistical estimation, while from 2011 is an actual continuos observation. Thus, ISTAT may have overestimaded the phenomenon.
 
+While the growth trend is quite similar for the five zones, the absolute value is not. I can see three different situations:
+- Nord-ovest;
+- Nord-est and Centro;
+- Isole and Sud.
+
 ## Regions Distribution Plots
 Same distributions computed for the zones will be analyzed for the Italian regions. Here, instead of Trentino-Alto Adige, Trentino and South Tyrol are considered.
 
@@ -40,6 +45,8 @@ Same distributions computed for the zones will be analyzed for the Italian regio
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/region_abs_growth.png)
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/region_prev_growth.png)
+
+Here the three clusters situation is highlighted. Moreover it is possible to see that most of the flow from the Nord-ovest comes from the Lombardia region (plus Piemonte, second cluster). While Lazio, Emilia-Romagna, Veneto and Toscana are those that contribute the most to the second cluster (Nord-est, Centro).
 
 ## Zones by Origin Distribution Plots
 I want to include in the study also the different origin territories. 
