@@ -1,16 +1,32 @@
 # Immigration
 
-## Regions Distribution Plots
-Here we are gonna see the regions distribution across the years. More specifically:
+## Zones Distribution Plots
+Here we are gonna see the zones distribution across the years. With zones we mean the Italian territories division:
+- Centro;
+- Isole;
+- Nord-est;
+- Nord-ovest;
+- Sud.
+More specifically we will analyze:
 - the absolute value distribution;
 - the growth distribution;
-- the growth rate distribution, i.e. $$(year - prev_year)/prev_year$$.
+- the growth rate distribution, i.e. $(year - prev_year)/prev_year$.
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/region_abs.png)
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/region_abs_growth.png)
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/region_prev_growth.png)
+
+
+## Regions Distribution Plots
+Same distributions computed for the zones will be analyzed for the Italian regions. Here, instead of Trentino-Alto Adige, Trentino and South Tyrol are considered.
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_abs.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_abs_growth.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_prev_growth.png)
 
 ## Appendix
 
