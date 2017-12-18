@@ -71,15 +71,20 @@ The flow from Pacific could be overlooked. American born population is significa
 ## Top 5 countries per Continent
 Let's see the distibution of the 5 countries more "influent" for each continent.
 
-![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Centro.png) 
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Centro.png)
+Notable components: Romania, Albania.
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Isole.png)
+Notable components: Romania, Tunisia, Marocco.
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Nord-est.png)
+Notable components: Romania, Marocco, Albania.
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Nord-ovest.png)
+Notable components: Romania, Marocco, Albania.
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Sud.png)
+Notable components: Romania, Albania, Ukraine, Marocco, Tunisia.
 
 ## Countries per Continent
 Here I can analyze all the countries-component for each continent.
