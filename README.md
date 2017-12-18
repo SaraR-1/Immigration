@@ -64,7 +64,7 @@ Let's see the distibution of the 5 countries more "influent" for each continent.
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Sud.png)
 
-## Countries Distribution per continent
+## Countries per Continent
 Here I can analyze all the countries-component for each continent.
 
 ### Africa
@@ -121,6 +121,76 @@ Here I can analyze all the countries-component for each continent.
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Pacific_countries_Nord-ovest.png)
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Pacific_countries_Sud.png)
+
+## Regions by Origin Distribution Plots
+
+### Origin Continent
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Abruzzo.png)
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Basilicata.png)
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Calabria.png)
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Campania.png)
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Emilia-Romagna.png)
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Friuli-Venezia Giulia.png)
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Lazio.png)
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Liguria.png)
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Lombardia.png)
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Marche.png)
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Molise.png)
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Piemonte.png)
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Provincia Autonoma di Bolzano.png)
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Provincia Autonoma di Trento.png)
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Puglia.png)
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Sardegna.png)
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Sicilia.png)
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Toscana.png)
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Umbria.png)
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Valle d'Aosta.png)
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Veneto.png)
+
+## Top 5 countries per Continent
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Abruzzo.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Basilicata.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Calabria.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Campania.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Emilia-Romagna.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Friuli-Venezia Giulia.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Lazio.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Liguria.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Lombardia.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Marche.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Molise.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Piemonte.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Provincia Autonoma di Bolzano.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Provincia Autonoma di Trento.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Puglia.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Sardegna.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Sicilia.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Toscana.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Umbria.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Valle d'Aosta.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Veneto.png)
+
 ## Appendix
 
 Foreigners population across Italian regions - absolute value before 2011
