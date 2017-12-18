@@ -41,8 +41,9 @@ I want to include in the study also the different origin territories.
 ### Origin Continent
 First I will consider only the origin continent performing again an aggregation over the countries. Thus, I have a plot for each Italian zone.
 
-<img src="https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Centro.png style="width: 50%; height: 50%"/> ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Isole.png =250x250)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Centro.png) 
 
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Isole.png)
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Nord-est.png)
 
