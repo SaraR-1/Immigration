@@ -8,19 +8,20 @@ This is the gender distribution over the years, aggregated both on the destinati
 Form this stacked barplot, the distribution across the gender seems to be quite balanced.
 
 ## Zones Distribution Plots
-Here I am gonna show the zones distribution across the years. With zones I mean the Italian territories division:
+
+In this section, the [ISTAT dataset](http://stra-dati.istat.it/Index.aspx#) is analyzed. The dataset provides information on the population of both Italian-born and foreign-born citizens, split between the Italian destination territory, the foreigners country of origin, and the gender. The data are collected from 2003 on, but until 2011 the values are not the results of continuous observation, they are a statistical reconstruction between the two censures of 2001 and 2011.
+
+Note that ISTAT organizes the Italian territories into the following five zones:
 - Centro;
 - Isole;
 - Nord-est;
 - Nord-ovest;
 - Sud.
 
-More specifically we will analyze:
+Initially, the total foreign-born population (without distinction over the origin country) is analyzed as follows:
 - the absolute value distribution;
 - the growth distribution;
 - the growth rate distribution, i.e. (year - prev_year)/prev_year.
-
-In the following plots I performed an aggregation over the origin country.
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone.png)
 
@@ -28,14 +29,14 @@ In the following plots I performed an aggregation over the origin country.
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_prev_growth.png)
 
-Even if the growth rate is significantly decreasing, the immigration is still an increasing phenomenon. The growth change starts in 2014. In the same year (07/10/2014) there was the first agreement between the Government, the Regions and local authorities on a national level to face the flow of foreign-born population.
+Based on the above figure, even if the growth rate is significantly decreasing, the immigration is still an increasing phenomenon. Observe that in 2014, the growth rate is significantly reduced. A possible explanation could be that in the same year (07/10/2014) there was the first agreement between the Italian government, the regions and local authorities on a national level to face the flow of foreign-born population.
 
-Around 2011 there is an important decreasing. It may due to the fact that the data before 2011 is a statistical estimation, while from 2011 is an actual continuos observation. Thus, ISTAT may have overestimaded the phenomenon.
+Furthermore, between 2010 and 2011 there is a significant decrease in the growth rate. This could be justified by the fact that the data before 2011 is a statistical estimation, while from 2011 is an actual continuous observation. Thus, ISTAT may have overestimated the phenomenon.
 
-While the growth trend is quite similar for the five zones, the absolute value is not. I can see three different situations:
-- Nord-ovest;
-- Nord-est and Centro;
-- Isole and Sud.
+While the growth trend is quite similar to the five zones, the absolute value is not. Three different trends could be distinguished from this analysis:
+- Nord-ovest - initially between 2003 ... 2011 the absolute population is higher than any other region while after 2014 the growth rate seems to stabilize.;
+- Nord-est and Centro - for these regions, the absolute population is at similar levels;
+- Isole and Sud - these two zones have attracted less foreign-born population than the other zones. Although the absolute numbers are different, both zones experience similar growth trends.
 
 ## Regions Distribution Plots
 Same distributions computed for the zones will be analyzed for the Italian regions. Here, instead of Trentino-Alto Adige, Trentino and South Tyrol are considered.
