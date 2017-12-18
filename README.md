@@ -1,8 +1,16 @@
 # Immigration
 
-![alt text](https://github.com/SaraR-1/Immigration/blob/master/region_lineplot.png)
+## Regions Distribution Plots
+Here we are gonna see the regions distribution across the years. More specifically:
+- the absolute value distribution;
+- the growth distribution;
+- the growth rate distribution, i.e. $$(year - prev_year)/prev_year$$.
 
-![alt text](https://github.com/SaraR-1/Immigration/blob/master/regiongrowth_lineplot.png)
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/region_abs.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/region_abs_growth.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/region_prev_growth.png)
 
 ## Appendix
 
