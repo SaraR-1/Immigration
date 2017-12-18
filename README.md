@@ -188,7 +188,7 @@ Here I can analyze all the countries-component for each continent.
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Sicilia.png)
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Toscana.png)
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Umbria.png)
-![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Valle d'Aosta.png)
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Valle d'Aosta.png)
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top5_countrie_cont_Veneto.png)
 
 ## Appendix
