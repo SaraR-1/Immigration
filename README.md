@@ -20,28 +20,31 @@ More specifically we will analyze:
 
 In the following plots I performed an aggregation over the origin country.
 
-![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/region_abs.png)
-
-![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/region_abs_growth.png)
-
-![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/region_prev_growth.png)
-
-
-## Regions Distribution Plots
-Same distributions computed for the zones will be analyzed for the Italian regions. Here, instead of Trentino-Alto Adige, Trentino and South Tyrol are considered.
-
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_abs.png)
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_abs_growth.png)
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_prev_growth.png)
 
+## Regions Distribution Plots
+Same distributions computed for the zones will be analyzed for the Italian regions. Here, instead of Trentino-Alto Adige, Trentino and South Tyrol are considered.
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/region_abs.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/region_abs_growth.png)
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/region_prev_growth.png)
+
 ## Zones by Origin Distribution Plots
 I want to include in the study also the different origin territories. 
 
 ### Origin Continent
 First I will consider only the origin continent performing again an aggregation over the countries. Thus, I have a plot for each Italian zone.
-![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Centro.png) ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Isole.png)
+
+            |  
+:-------------------------:|:-------------------------:
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Centro.png)   |  ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Isole.png)
+
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/continent_distr_Nord-est.png)
 
