@@ -100,6 +100,8 @@ Here I can analyze all the countries-component for each continent.
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Africa_countries_Sud.png)
 
+As from the "top 5 countrie" plots, it is clear that the relevant country in Africa is Marocco. Only in Isole, Tunisia is important as Marocco. 
+
 ### Asia
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/py_zone_Asia_countries_Centro.png) 
 
