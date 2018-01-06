@@ -72,10 +72,14 @@ The flow from Pacific could be overlooked. American born population is significa
 ## 
 
 ### Africa
-![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAfrica_Centro.png) 
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAfrica_Centro.png)
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAfrica_Isole.png) 
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAfrica_Nord-es.png) 
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAfrica_Nord-ovest.png) 
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAfrica_Sud.png) 
 
 ### America
