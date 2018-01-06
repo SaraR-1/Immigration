@@ -72,6 +72,7 @@ The flow from Pacific could be overlooked. American born population is significa
 ## 
 
 ### Africa
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAfrica_Centro.png)
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAfrica_Isole.png) 
@@ -83,29 +84,49 @@ The flow from Pacific could be overlooked. American born population is significa
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAfrica_Sud.png) 
 
 ### America
-![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAmerica_Centro.png) 
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAmerica_Centro.png)
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAmerica_Isole.png) 
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAmerica_Nord-es.png) 
-![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAmerica_Nord-ovest.png) 
+
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAmerica_Nord-ovest.png)
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAmerica_Sud.png) 
 
 ### Asia
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAsia_Centro.png) 
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAsia_Isole.png) 
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAsia_Nord-es.png) 
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAsia_Nord-ovest.png) 
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAsia_Sud.png) 
 
 ### Europe
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeEurope_Centro.png) 
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeEurope_Isole.png) 
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeEurope_Nord-es.png) 
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeEurope_Nord-ovest.png) 
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeEurope_Sud.png) 
 
 ### Pacific
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completePacific_Centro.png) 
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completePacific_Isole.png) 
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completePacific_Nord-es.png) 
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completePacific_Nord-ovest.png) 
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completePacific_Sud.png)
