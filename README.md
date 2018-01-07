@@ -77,7 +77,7 @@ The flow from Pacific could be overlooked. American born population is significa
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAfrica_Isole.png) 
 
-![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAfrica_Nord-es.png) 
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAfrica_Nord-est.png) 
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAfrica_Nord-ovest.png) 
 
@@ -89,7 +89,7 @@ The flow from Pacific could be overlooked. American born population is significa
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAmerica_Isole.png) 
 
-![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAmerica_Nord-es.png) 
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAmerica_Nord-est.png) 
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAmerica_Nord-ovest.png)
 
@@ -101,7 +101,7 @@ The flow from Pacific could be overlooked. American born population is significa
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAsia_Isole.png) 
 
-![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAsia_Nord-es.png) 
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAsia_Nord-est.png) 
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAsia_Nord-ovest.png) 
 
@@ -113,7 +113,7 @@ The flow from Pacific could be overlooked. American born population is significa
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeEurope_Isole.png) 
 
-![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeEurope_Nord-es.png) 
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeEurope_Nord-est.png) 
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeEurope_Nord-ovest.png) 
 
@@ -125,7 +125,7 @@ The flow from Pacific could be overlooked. American born population is significa
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completePacific_Isole.png) 
 
-![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completePacific_Nord-es.png) 
+![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completePacific_Nord-est.png) 
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completePacific_Nord-ovest.png) 
 
