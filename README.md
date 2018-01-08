@@ -73,9 +73,9 @@ First, a plot for each Italian zone is shown. Here an aggregation over the origi
 
 It is interesting that, even if the continent distributions are similar across the Italian zones, there are some differences.
 
-Europe is always the continent that contributes the most to the Italy foreigners flow and the growth rate decreases from 2014 (as aforementioned). The five trends are quite similar even if with different absolute values, expecially in Sud and Isole. All the zones report an increase in the 2007-2008 period, it is remarkable mainly in Sud and Isole.
+Europe is always the continent that contributes the most to the Italy foreigners flow and the growth rate decreases from 2014 (as aforementioned). The five trends are quite similar even if with different absolute values, especially in Sud and Isole. All the zones report an increase in the 2007-2008 period, it is remarkable mainly in Sud and Isole.
 
-The others continent flow is less important, in terms of absolute value, BUT the growth rate is not the same for all the zones: it decreases in Centro, Nors-est and Nord-ovest and increases in Isole and Sud (which are in the "third cluster"). This flow rate consideration holds also for Europe born foreigners.
+The others continent flow is less important, in terms of absolute value, BUT the growth rate is not the same for all the zones: it decreases in Centro, Nord-est and Nord-ovest and increases in Isole and Sud (which are in the "third cluster"). This flow rate consideration holds also for Europe born foreigners.
 
 The flow from Pacific is very similar in all the zones and could be overlooked. American born population is significant only in Nord-ovest and Centro.
 
