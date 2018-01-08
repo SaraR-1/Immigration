@@ -79,7 +79,13 @@ The others continent flow is less important, in terms of absolute value, BUT the
 
 The flow from Pacific is very similar in all the zones and could be overlooked. American born population is significant only in Nord-ovest and Centro.
 
-## 
+## Region - top 5 countries per continent Plot
+
+The goal of this section is to show the distribution of the origin countries that contribute the most to the Italian foreigners-born population flow.
+
+For each couple Continent-Zone and for all the regions in the particular zone, the distributions of the top 5 origin countries of the specific continent are shown. 
+
+An aggregating plot is also included. It represents the distribution of the top "n" countries in the zone. The top "n" countries covered all the top 5 countries found in the zone regions.
 
 ### Africa
 
