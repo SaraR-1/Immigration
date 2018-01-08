@@ -42,7 +42,8 @@ While the growth trend is quite similar in the five zones, the absolute value is
 - Isole and Sud - these two zones have attracted less foreign-born population than the other zones. Although the absolute numbers are different, both zones experience similar growth trends.
 
 ## Regions Distribution Plots
-Same distributions computed for the zones will be analyzed for the Italian regions. Here, instead of Trentino-Alto Adige, Trentino and South Tyrol are considered.
+
+The study computed for the Italian zones will be extended to regions level. Here, instead of Trentino-Alto Adige, Trentino and South Tyrol are considered.
 
 ![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/region_abs.png)
 
@@ -53,7 +54,9 @@ Same distributions computed for the zones will be analyzed for the Italian regio
 Here the three clusters situation is highlighted. Moreover it is possible to see that most of the flow from the Nord-ovest comes from the Lombardia region (plus Piemonte, second cluster). While Lazio, Emilia-Romagna, Veneto and Toscana are those that contribute the most to the second cluster (Nord-est, Centro).
 
 ## Zones by Origin Distribution Plots
-In this section the different origin territories are included in the study. 
+In this section the different origin territories are included in the study at two aggregation levels:
+- continent;
+- country. 
 
 ### Origin Continent
 First, a plot for each Italian zone is shown. Here an aggregation over the origin continent is performed.
