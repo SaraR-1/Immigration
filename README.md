@@ -1,14 +1,5 @@
 # Immigration
 
-## Gender Distribution Plots
-![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/gender_distribution.png)
-
-This is the gender distribution over the years, aggregated both on the destination and the origin territories.
-
-Form this stacked barplot, the distribution across the gender seems to be quite balanced.
-
-## Zones Distribution Plots
-
 In this section, the [ISTAT dataset](http://stra-dati.istat.it/Index.aspx#) is analyzed. The dataset provides information on the population of both Italian-born and foreign-born citizens, split between the Italian destination territory, the foreigners country of origin, and the gender. The data are collected from 2003 on, but until 2011 the values are not the results of continuous observation, they are a statistical reconstruction between the two censures of 2001 and 2011.
 
 Note that ISTAT organizes the Italian territories into the following five zones:
@@ -18,7 +9,18 @@ Note that ISTAT organizes the Italian territories into the following five zones:
 - Nord-ovest;
 - Sud.
 
-Initially, the total foreign-born population (without distinction over the origin country) is analyzed as follows:
+## Gender Distribution Plots
+
+The following plot shows the gender distribution over the years, aggregated both on the destination and the origin territories.
+
+![alt text](https://github.com/SaraR-1/Immigration/blob/master/Plots/gender_distribution.png)
+
+Form this stacked barplot, the distribution across the gender seems to be quite balanced.
+
+## Zones Distribution Plots
+
+Here, the aim is to show the distributions of the foreign-born citizens across the five Italian zones. They are studied without distinction over the origin country.
+Initially, the total foreign-born population is analyzed as follows:
 - the absolute value distribution;
 - the growth distribution;
 - the growth rate distribution, i.e. (year - prev_year)/prev_year.
