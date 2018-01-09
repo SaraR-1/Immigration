@@ -53,6 +53,10 @@ The study computed for the Italian zones will be extended to regions level. Here
 
 Here the three clusters situation is highlighted. Moreover it is possible to see that most of the flow from the Nord-ovest comes from the Lombardia region (plus Piemonte, second cluster). While Lazio, Emilia-Romagna, Veneto and Toscana are those that contribute the most to the second cluster (Nord-est, Centro).
 
+### Regions Distribution Plots - Map Visualization
+
+[prova](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2017.html)
+
 ## Zones by Origin Distribution Plots
 In this section the different origin territories are included in the study at two aggregation levels:
 - continent;
