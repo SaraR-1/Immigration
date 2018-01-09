@@ -140,7 +140,7 @@ Concerning the Asian-born population flow distributions, the plots show a simila
 
 Here is evident, more than in the others continent flows, that just one or two (in Centro and Nord-est) regions contributes to the aggregate distribution.
 
-The Chinese-born flow is always the higher but in Lazio and Sicily, where the higher values correspond to the Philippines and Sri Lanka. 
+The Chinese-born flow is always the highest but in Lazio and Sicily, where the highest values correspond to the Philippines and Sri Lanka. 
 
 ### Europe
 
