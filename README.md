@@ -188,6 +188,8 @@ In Sud, it is not possible to point out a significant difference between the reg
 
 ## Zone - top 2 countries per continent Plot
 
+In the following plots, it is shown for each of the five Italian zones top two countries per continent. Top two countries per continent represent the two countries, for each continent, contributing the most to the zone flow.
+
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top2_countrie_cont_Centro.png) 
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top2_countrie_cont_Isole.png) 
@@ -197,3 +199,9 @@ In Sud, it is not possible to point out a significant difference between the reg
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top2_countrie_cont_Nord-ovest.png) 
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top2_countrie_cont__Sud.png)
+
+These plots seem to confirm what came out from the previous section. 
+
+Moreover, it is highlighted the difference between the Romanian flow and all the other flows. 
+
+To conclude that it would be possible to say that these two last sections confirm what assumed before about the three different behavior of the five zones.
