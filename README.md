@@ -55,7 +55,22 @@ Here the three clusters situation is highlighted. Moreover it is possible to see
 
 ### Regions Distribution Plots - Map Visualization
 
-[prova](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2017.html)
+Here it is also possible to see the map visualization of the regional flow year by year:
+- [2003](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2003.html)
+- [2004](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2004.html)
+- [2005](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2005.html)
+- [2006](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2006.html)
+- [2007](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2007.html)
+- [2008](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2008.html)
+- [2009](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2009.html)
+- [2010](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2010.html
+- [2011](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2011.html)
+- [2012](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2012.html)
+- [2013](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2013.html)
+- [2014](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2014.html)
+- [2015](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2015.html)
+- [2016](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2016.html)
+- [2017](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2017.html)
 
 ## Zones by Origin Distribution Plots
 In this section the different origin territories are included in the study at two aggregation levels:
