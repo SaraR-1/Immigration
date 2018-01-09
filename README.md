@@ -136,6 +136,12 @@ In Nord-est, Isole, and Sud it is possible to notice that Brazil is the most com
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAsia_Sud.png) 
 
+Concerning the Asian-born population flow distributions, the plots show a similar trend at the zone level. That is: all the countries have a comparable behavior even if with significantly different scale (in absolute values). 
+
+Here is evident, more than in the others continent flows, that just one or two (in Centro and Nord-est) regions contributes to the aggregate distribution.
+
+The Chinese-born flow is always the higher but in Lazio and Sicily, where the higher values correspond to the Philippines and Sri Lanka. 
+
 ### Europe
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeEurope_Centro.png) 
