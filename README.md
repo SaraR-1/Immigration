@@ -63,7 +63,7 @@ Here it is also possible to see the map visualization of the regional flow year 
 - [2007](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2007.html)
 - [2008](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2008.html)
 - [2009](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2009.html)
-- [2010](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2010.html
+- [2010](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2010.html)
 - [2011](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2011.html)
 - [2012](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2012.html)
 - [2013](https://github.com/SaraR-1/Immigration/blob/master/Plots/resident_foreigners_2013.html)
