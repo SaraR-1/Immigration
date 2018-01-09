@@ -154,6 +154,12 @@ The Chinese-born flow is always the highest but in Lazio and Sicily, where the h
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeEurope_Sud.png) 
 
+Romania is the country that contributes the most to the total European-born population flow. Even if the growth rate seems to decrease, it still has an increasing trend.
+
+In regions like Tuscany, Lombardy, Puglia, and Abruzzo the Albanian flow is remarkable even if from 2014 it looks like to have a negative growth rate.
+
+In Campania, there may be an important Ukrainian community.
+
 ### Pacific
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completePacific_Centro.png) 
