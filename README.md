@@ -166,6 +166,8 @@ The Chinese-born flow is always the higher but in Lazio and Sicily, where the hi
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completePacific_Sud.png)
 
+It is possible to see that here the scales are very different from the once in the above plots. As aforementioned, the Pacific flow could be overlooked.
+
 ## Zone - top 2 countries per continent Plot
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top2_countrie_cont_Centro.png) 
