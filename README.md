@@ -174,6 +174,18 @@ In Campania, there may be an important Ukrainian community.
 
 It is possible to see that here the scales are very different from the once in the above plots. As aforementioned, the Pacific flow could be overlooked.
 
+At the end of this section, it is also possible to come up with some comments about the zone-regions relation.
+
+Lazio and partially Tuscany represent most of the Centro total distribution.
+
+Sardinia's data could be overlooked with respect to the Sicily once.
+
+Lombardy constitutes almost the entire Nord-ovest flow. In specific case also Piedmont and Liguria contribute to the aggregate values.
+
+Emilia Romagna and Veneto seem to split up all the Nord-est flow.
+
+In Sud, it is not possible to point out a significant difference between the regional trends.  However, it is shown that Molise and Basilicata may be ignored in the analysis.
+
 ## Zone - top 2 countries per continent Plot
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/zone_top2_countrie_cont_Centro.png) 
