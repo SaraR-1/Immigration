@@ -117,6 +117,13 @@ Others notable flows are the once from Tunisia to Sicily and from Egypt to Lomba
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAmerica_Sud.png) 
 
+The American flow is pretty different in the observed zones.
+
+In Centro and Nord-ovest the countries giving the most to the aggregate flow are Peru and Ecuador. More in detail, the most common destination regions are Lazio and Lombardia for both Peruvians and Ecuadorians, then Toscana and Liguria for Peruvians and Ecuadorians respectively.  
+Once again, looking at the plots, it is possible to say that the absolute values are significantly different: the once from Pure and Ecuador are about double and quadruple respectively in the Nord-ovest with respect to the Centro. Both the growth rates start decreasing having negative values from 2014.
+
+In Nord-est, Isole, and Sud it is possible to notice that Brazil is the most common origin country. In Nord-est the growth rate seems to be stable from 2014 on, while in Isole and Sud it is still increasing. 
+
 ### Asia
 
 ![](https://github.com/SaraR-1/Immigration/blob/master/Plots/completeAsia_Centro.png) 
