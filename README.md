@@ -120,7 +120,17 @@ An aggregating plot is also included. It represents the distribution of the top 
 
 In all of the five zones, Marocco is the country that contributes the most to the total African-born population flow. 
 
-Until 2013,  the Marocco's trend is quite similar, with different absolute values, in the Italian zones. From 2014 on, the destination territories of the Moroccan population seem to be changed. In particular, the growth rate of the zones with a higher absolute value (Centro, Nord-est, Nord-ovest) is decreasing, while it is increasing in the other zones Isole and Sud.
+Until 2013,  the Marocco's trend is quite similar, with different absolute values, in the Italian zones. From 2014 on, the destination territories of the Moroccan population seem to be changed. In particular, the growth rate of the zones with a higher absolute value (Centro, Nord-est, Nord-ovest) is decreasing, while it is increasing in the other zones Isole and Sud. Here is the numerical values:
+
+| Zone | 2014 flow | 2017 flow | 2017 - 2014 | (2017 - 2014)/2014 |
+|---|---|---|---|---|
+| Centro | 63823 | 60365 | -3458 | -0.0542 |
+| Isole | 18648 | 19202 | 554 | 0.0297 |
+| Nord-est | 137724 | 119727 | -17997 | -0.1307 |
+| Nord-ovest | 185718 | 166432 | -19286 | -0.1038 |
+| Sud | 48860 | 54925 | 6065 | 0.1241 |
+
+
 
 Others notable flows are the once from Tunisia to Sicily and from Egypt to Lombardia.
 
