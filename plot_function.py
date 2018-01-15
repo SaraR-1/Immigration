@@ -1,6 +1,7 @@
 #!/myenv/bin/python
 
 import pandas as pd
+import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 import matplotlib.lines as mlines
@@ -18,7 +19,7 @@ def upload_data(data, key = True):
     res = json.load(open(data))
     if key:
         # the key "y" (year) and the values have to be a int --> transform it
-        res = {k1: dict([int(k2), int(v2)] for k2, v2 in v1.items()) for k1, v1 in res.items()}
+        res = {k1: dict([int(k2), float(v2)] for k2, v2 in v1.items()) for k1, v1 in res.items()}
     else:
         # just the values have to be numeric (float cause le rate is not int) --> transform it
         res = {k1: dict([k2, float(v2)] for k2, v2 in v1.items()) for k1, v1 in res.items()}
@@ -71,6 +72,14 @@ def barplot_per_year(data, years_list, x_label, y_label, title, save = True, pat
         else:
             plt.show()            
 
+def export_legend(legend, filename, expand=[-5,-5,5,5]):
+    fig  = legend.figure
+    fig.canvas.draw()
+    bbox  = legend.get_window_extent()
+    bbox = bbox.from_extents(*(bbox.extents + np.array(expand)))
+    bbox = bbox.transformed(fig.dpi_scale_trans.inverted())
+    fig.savefig(filename, dpi="figure", bbox_inches=bbox)
+
 
 '''
 Function to produce a single lineplot for every region - every point of the line represent a single year
@@ -86,13 +95,17 @@ Function to produce a single lineplot for every region - every point of the line
 - Ouput:
     - single lineplot, one for every region (keys in the data dictionary)
 '''
-def line_per_year(data, years_list, x_label, y_label, title, palette, countries_list = None, save = True,  path = "", key = True, preprocess = True):   
-    if preprocess == True:
+
+def line_per_year(data, years_list, x_label, y_label, title, palette, countries_list = None, save = True,  path = "", key = True, preprocess = False, sep_legend = False):   
+    if not preprocess:
         data = upload_data(data, key)
     if countries_list:
     	countries_stream = [x for x in countries_list if x in data.keys()] 
     else:
     	countries_stream = palette
+
+    if type(palette) == list:
+    	palette = {c: col for c, col in zip(countries_stream, palette)}
     sns.set_style("whitegrid")
     sns.set_context({"figure.figsize": (10, 8)})
     legend = []
@@ -119,7 +132,7 @@ def line_per_year(data, years_list, x_label, y_label, title, palette, countries_
         sns.pointplot(y = temp, x = x_year,label= d, color = c)
         if countries_list:
         	countries_name = pd.read_table("Data_final/country_name_coherence.csv", sep = "\t")
-        	legend.append(mlines.Line2D([], [], color=c, markersize=15, label=countries_name[countries_name["iso3"] == d]["english name"].values[0]))
+        	legend.append(mlines.Line2D([], [], color=c, markersize=15, label=countries_name[countries_name["iso3"] == d]["english name"].values[0].split(",")[0]))
         else:
         	legend.append(mlines.Line2D([], [], color=c, markersize=15, label=d))
 
@@ -127,10 +140,16 @@ def line_per_year(data, years_list, x_label, y_label, title, palette, countries_
     sns.despine(left=True)
     plt.xlabel(x_label, fontsize=12)
     plt.ylabel(y_label, fontsize=12)
-    lgd = plt.legend(handles = legend, prop={'size':14}, loc='upper right', bbox_to_anchor=(1.6, 1.05), ncol=1)
     plt.title(title, fontsize = 16)
     if save == True:
-        plt.savefig(path+".png", bbox_extra_artists=(lgd,), bbox_inches='tight')
+        if sep_legend:
+            plt.savefig(path+".png", bbox_inches='tight')
+            lgd = plt.legend(handles = legend, prop={'size':14}, loc='upper center', bbox_to_anchor=(0, -0.1), fancybox=True, shadow=True, ncol = len(data))
+            continent_name = title.split()[0]
+            export_legend(lgd, "Temp_plot/legend_"+continent_name+"_"+x_label+".png")
+        else:
+            lgd = plt.legend(handles = legend, prop={'size':14}, loc='upper right', bbox_to_anchor=(1.6, 1.05), ncol=1)
+            plt.savefig(path+".png", bbox_extra_artists=(lgd,), bbox_inches='tight')
     else:
         plt.show()
     plt.close()
@@ -140,7 +159,8 @@ def multiple_line_per_year(data, years_list, y_label, title, palette, countries_
     data = json.load(open(data))
     data = {k1: {k2:[int(i) for i in v2] for k2, v2 in v1.items()} for k1, v1 in data.items()}
     for d in data:
-        line_per_year(data[d], years_list, d, y_label, title+d , palette, countries_list, save = save, path = path+d,preprocess = False)
+    	c = d.replace(" ", "")
+    	line_per_year(data[d], years_list, d, y_label, title+d , palette, countries_list, save = save, path = path+c, preprocess = True)
 
 
 def stacked_barplot(data, years_list, x_label, y_label, title, save = True,  path = ""):

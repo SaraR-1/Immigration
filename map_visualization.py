@@ -9,7 +9,7 @@ import os
 import json
 import plot_function
 
-def map_vis(data, year, path = "Plots", key = True):
+def map_vis(data, year, abs = True, path = "Plots", key = True):
 
     data = plot_function.upload_data(data, key)
     # define the color scale (one single year)
@@ -56,9 +56,15 @@ def map_vis(data, year, path = "Plots", key = True):
 
 
     colormap = linear
-    colormap.caption = 'Resident Foreigners %d' %year
+    if abs:
+        colormap.caption = 'Resident Foreigners %d' %year
+    else:
+    	colormap.caption = 'Resident Foreigners Native Percentage %d' %year
     my_map.add_child(colormap)
     #list_layer = [d+"_center" for d in all_geo_json_d_center] + [d+"_area" for d in all_geo_json_d_center] 
     #folium.FeatureGroup(list_layer).add_to(my_map)
 
-    my_map.save("%s/resident_foreigners_%d.html"%(path, year))
+    if abs:
+    	my_map.save("%s/resident_foreigners_abs_%d.html"%(path, year))
+    else:
+    	my_map.save("%s/resident_foreigners_perc_%d.html"%(path, year))
